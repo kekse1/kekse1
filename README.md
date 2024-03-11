@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 Christmas 2020 ![Christmas 2020](img/2020.png)
 
 # Repositories
-These are my current repositories, sorted by my personal priority..
+These are my current repositories \[sorted by my personal priority\].
 
 ### Index
 
