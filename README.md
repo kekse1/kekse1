@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: **kuchen@kekse.biz**
 
 # Repositories
-Here you can find all my current repositories \[sorted by _personal priority_\].
+Here you can find all my current repositories \[sorted by _personal priority_\], also to be found on my
+private website's [**`~projects`** page](https://kekse.biz/?~projects).
 
 ### Index
 
