@@ -64,7 +64,7 @@ My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact bas
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
 
 I think it's a really nice design ... _but_ **one bug** left/found in there (when handling multiple parameters)..
-I'd love to get a bugfix by you.
+**please** send my your bugfix!
 
 ## **`noto-emoji-animation`**
 Google got it's own animated icon set, available via web interface (and github, too):
