@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: **kuchen@kekse.biz**
 
 # **/me**
-Christmas 2020 ![Christmas 2020](img/2020.png)
+![Christmas 2020](img/2020.png)
 
 # Repositories
 Here you can find all my current repositories \[sorted by _personal priority_\].
