@@ -46,10 +46,11 @@ Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
 
 ## **`scripts`**
 Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for inclusion via `source`/`.`),
-partially JavaScript (like [my own `Reflect.clone()` function](../scripts/#clonejs) , and maybe even more?
+partially JavaScript (like my own [Reflect.clone()` function](https://github.com/kekse1/scripts/#clonejs) ,
+ and maybe even more?
 
-Here's also [my **notorious `$PS`** prompt](/scripts/#promptsh) to be found (including an
-[example screenshot](scripts/img/prompt.png)).
+Here's also [my **notorious `$PS`** prompt](https://github.com/kekse1/scripts/#promptsh) to be found (including an
+[example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png).
 
 ## **`getopt.js`**
 My own `getopt` interpretation, written in plain/vanilla JavaScript. I think it's a really nice design,
@@ -89,3 +90,4 @@ and my projects are mostly licensed under the [MIT](LICENSE.txt)
 (also known as 'X' or 'X11' license).
 
 ![kekse.biz](favicon.png)
+
