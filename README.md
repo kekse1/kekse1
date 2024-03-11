@@ -56,7 +56,7 @@ Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also f
 partially JavaScript (like my own [Reflect.clone()` function](https://github.com/kekse1/scripts/#clonejs) ,
  and maybe even more?
 
-Here's also my [**notorious `$PS1`** prompt](https://github.com/kekse1/scripts/#promptsh) to be found (including an
+Here's also my notorious [**`$PS1`** prompt](https://github.com/kekse1/scripts/#promptsh) to be found (including an
 [example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png)).
 
 ## **`getopt.js`**
