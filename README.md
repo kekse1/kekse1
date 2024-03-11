@@ -80,7 +80,7 @@ to resize images. Only **down**-scaling allowed, since **up**-scaling won't make
 A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
 
 ## **`norbert`**
-Only some notes to my own A.I. I'm researching on for almost twenty years now.. there's nothing to be downloaded
+Only some notes to my own A.I. I'm researching on for nearly twenty years now.. there's nothing to be downloaded
 or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`**
 
 ## **`v3`**
