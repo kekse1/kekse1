@@ -10,9 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 👋 My **private** website: [**kekse.biz**](https://kekse.biz/)
 - 📫 How to reach me: **kuchen@kekse.biz**
 
-# **/me**
-![Christmas 2020](img/2020.png)
-
 # Repositories
 Here you can find all my current repositories \[sorted by _personal priority_\].
 
@@ -98,3 +95,5 @@ and my projects are mostly licensed under the [MIT](LICENSE.txt)
 
 ![kekse.biz](favicon.png)
 
+# **/me**
+![Christmas 2020](img/2020.png)
