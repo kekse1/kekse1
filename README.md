@@ -10,9 +10,8 @@ You can click the Preview link to take a look at your changes.
 - 👋 My **private** website: [**kekse.biz**](https://kekse.biz/)
 - 📫 How to reach me: **kuchen@kekse.biz**
 
-# **/me** (Christmas 2020)
-
-![Christmas 2020](img/2020.png)
+# **/me**
+Christmas 2020: ![Christmas 2020](img/2020.png)
 
 # Repositories
 These are my current repositories, sorted by my personal priority..
