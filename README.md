@@ -45,7 +45,7 @@ It supports both `text/plain` (or other mime/content types) and `image/*` drawin
 The last feature I'd like to mention here is the (configurable) **`?text`** parameter to draw short text
 strings instead of the counted values etc., e.g. to hide some info from automatic web crawlers/spiders/..
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on my
-[**`~impressum`**](https://kekse.biz/?~impressum) page).
+[**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
 
 ## [**`v4`**](https://github.com/kekse1/v4/)
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
