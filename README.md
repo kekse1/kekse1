@@ -31,7 +31,7 @@ These are my current repositories, sorted by my personal priority..
 * [**`lib.js`**](#libjs)
 
 ## **`count.php`**
-`The best PHP counter script in the world!1` xD ...
+`The best PHP counter script in the world!1`
 
 I really love it, so please give it a try! It even got a **CLI mode** (**C**onsole **L**ine **I**nterface)
 to manage all the values etc. (in your file system) and also to view the current states.
