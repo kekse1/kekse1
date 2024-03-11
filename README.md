@@ -22,16 +22,11 @@ These are my current repositories, sorted by my personal priority..
 * [**`count.php`**](#countphp)
 * [**`v4`**](#v4)
 * [**`scripts`**](#scripts)
-
 * [**`getopt.js`**](#getoptjs)
-
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`resize.php`**](#resizephp)
-
 * [**`github-markdown.php`**](#github-markdownphp)
-
 * [**`norbert`**](#norbert)
-
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
 
