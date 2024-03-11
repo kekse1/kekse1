@@ -40,7 +40,7 @@ It has really many features and is highly customizable - even with extra config 
 which can be used in any amount.. and there's the configuration on the one hand, and on the other hand
 there are many **`$_GET[]` parameters** to customize the output/drawing.
 
-It supports both `text/plain` (or other mime types configurable) and `image/*` drawing output. And the last
+It supports both `text/plain` (or other mime/content types) and `image/*` drawing output. And the last
 feature I'd like to mention here is the (configurable) **`?text`** parameter to draw short text strings instead
 of the counted values etc., e.g. to hide some info from automatic web crawlers/spiders/.. etc., e.g. when you
 want to present your eMail address or so.
