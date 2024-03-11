@@ -37,8 +37,15 @@ I really love it, so please give it a try! It even got a **CLI mode** (**C**onso
 to manage all the values etc. (in your file system) and also to view the current states.
 
 Using the file system (but **not** a single file!) it's pretty efficient, and I made it **really** secure!
-It has really many features and is highly customizable (even with extra config differences for each host,
-which can be used in any amount).
+It has really many features and is highly customizable - even with extra config differences for each host,
+which can be used in any amount.. and there's the configuration on the one hand (which can also be verified
+in the **CLI mode** (via **`--config / -c`** parameter), and there are many **`$_GET[]` parameters** to
+customize the output/drawing.
+
+It supports both `text/plain` (or other mime types configurable) and `image/*` drawing output. And the last
+feature I'd like to mention here is the (configurable) **`?text`** parameter to draw short text strings instead
+of the counted values etc., e.g. to hide some info from automatic web crawlers/spiders/.. etc., e.g. when you
+want to present your eMail address or so.
 
 ## **`v4`**
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
