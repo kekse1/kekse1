@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Repositories
 Here are my own repositories, *sorted by priority*.
-Also to be found on my private website's [**`~projects`** page](https://kekse.biz/?~projects).
+Also to be found on my private website's [**`~projects`**e](https://kekse.biz/?~projects) page.
 
 ### Index
 
@@ -45,7 +45,7 @@ It supports both `text/plain` (or other mime/content types) and `image/*` drawin
 The last feature I'd like to mention here is the (configurable) **`?text`** parameter to draw short text
 strings instead of the counted values etc., e.g. to hide some info from automatic web crawlers/spiders/..
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on the
-[**~impressum** page](https://kekse.biz/?~impressum)).
+[**`~impressum`**](https://kekse.biz/?~impressum) page).
 
 ## [**`v4`**](https://github.com/kekse1/v4/)
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
