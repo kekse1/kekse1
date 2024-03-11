@@ -84,7 +84,7 @@ Only some notes to my own A.I. I'm researching on for nearly twenty years now.. 
 or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`**
 
 ## **`v3`**
-Basically only a screenshot left of my previous **v3** web design (my private one). The code is deleted, since
+Basically only a screenshot left of my previous **v3** web design (my older private site). The code is deleted, since
 my newest [**v4**](#v4) is available right now.
 
 ## **`lib.js`**
