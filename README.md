@@ -74,7 +74,7 @@ It should still work, but I'm not absolutely sure, since this project is some mo
 
 ## **`resize.php`**
 Both for the **CLI** (**C**onsole **L**ine **I**nterface) and the **web browser** (so via **HTTPD**): a script
-to resize images. Only **down**-scaling allowed, since **up**-scaling wouldn't make any sense..
+to resize images. Only **down**-scaling allowed, since **up**-scaling wouldn't make any sense, for obvious reasons..
 
 ## **`github-markdown.php`**
 A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
