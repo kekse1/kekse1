@@ -49,6 +49,7 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 ## **`v4`**
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
 Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
+Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projects) in my own overview? `^_^`
 
 ## **`scripts`**
 Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for inclusion via `source`/`.`),
