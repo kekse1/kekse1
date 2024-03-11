@@ -63,8 +63,6 @@ Here's also my notorious [**`$PS1`** prompt](https://github.com/kekse1/scripts/#
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based upon my [**v4** **lib**/](#v4),
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
 
-I think it's a really nice design ... _but_ (at least) **one bug** left in there (with multiple parameters)..
-
 ## **`noto-emoji-animation`**
 Google got it's own animated icon set, available via web interface (and github, too):
 
