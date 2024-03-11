@@ -57,7 +57,7 @@ partially JavaScript (like my own [Reflect.clone()` function](https://github.com
  and maybe even more?
 
 Here's also [my **notorious `$PS`** prompt](https://github.com/kekse1/scripts/#promptsh) to be found (including an
-[example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png).
+[example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png)).
 
 ## **`getopt.js`**
 My own `getopt` interpretation, written in plain/vanilla JavaScript. I think it's a really nice design,
