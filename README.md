@@ -27,8 +27,8 @@ Also to be found on my private website's [**`~projects`** page](https://kekse.bi
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
 
-All these projects are described on this page (here below) - click on the big, bold heading to open
-the GitHub repository pages (or their `README.md`s).
+All these projects are described on this page, here below.
+Click on a big, bold heading to open the GitHub repository pages (or their `README.md`s).
 
 ## [**`count.php`**](https://github.com/kekse1/count.php/)
 `The best PHP counter script in the world!1`
