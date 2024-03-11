@@ -45,7 +45,7 @@ This is the current API documentation (etc.) for my [**private** website project
 Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
 
 ## **`scripts`**
-Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for `source`/`.`),
+Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for inclusion via `source`/`.`),
 partially JavaScript (like [my own `Reflect.clone()` function](scripts/#clonejs) , and maybe even more?
 
 Here's also [my **notorious `$PS`** prompt](scripts/#promptsh) to be found (including an
