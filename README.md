@@ -30,7 +30,7 @@ Also to be found on my private website's [**`~projects`**e](https://kekse.biz/?~
 All these projects are described on this page, here below. Open 'em via their big, bold headings.
 
 ## [**`count.php`**](https://github.com/kekse1/count.php/)
-`The best PHP counter script in the world!1`
+**`The best PHP counter script in the world!1`**
 
 I really love it, so please give it a try! It even got a **CLI mode** (**C**onsole **L**ine **I**nterface)
 to manage all the values etc. (in your file system) and also to view the current states.
