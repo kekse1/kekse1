@@ -37,8 +37,8 @@ to manage all the values etc. (in your file system) and also to view the current
 
 Using the file system (but **not** a single file!) it's pretty efficient, and I made it **really** secure!
 It has really many features and is highly customizable - even with extra config differences for each host,
-which can be used in any amount.. and there's the configuration on the one hand, and on the other one many
-**`$_GET[]` parameters** to customize the output/drawing.
+which can be used in any amount.. and there's the configuration on the one hand, and on the other hand
+there are many **`$_GET[]` parameters** to customize the output/drawing.
 
 It supports both `text/plain` (or other mime types configurable) and `image/*` drawing output. And the last
 feature I'd like to mention here is the (configurable) **`?text`** parameter to draw short text strings instead
