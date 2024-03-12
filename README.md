@@ -97,5 +97,3 @@ and my projects are mostly licensed under the [MIT](LICENSE.txt)
 
 ![kekse.biz](favicon.png)
 
-# **/me**
-![Christmas 2020](img/2020.png)
