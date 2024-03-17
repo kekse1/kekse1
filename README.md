@@ -13,8 +13,8 @@ Also to be found on my private website's [**`~projects`**e](https://kekse.biz/?~
 
 * [**`count.php`**](#countphp)
 * [**`count2`**](#count2)
-* [**`v4`**](#v4)
 * [**`scripts`**](#scripts)
+* [**`v4`**](#v4)
 * [**`getopt.js`**](#getoptjs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`resize.php`**](#resizephp)
@@ -45,11 +45,6 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 _**Future** Plan(s)_ for a new [**`count.php`**](https://github.com/kekse1/count.php/),
 as [already discussed](https://www.php.de/forum/stellenangebote-und-projektausschreibungen/projekthilfe/1613771-%60count-php%60).
 
-## [**`v4`**](https://github.com/kekse1/v4/)
-This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
-Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
-Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projects) in my own overview? `^_^`
-
 ## [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for inclusion via `source`/`.`),
 partially JavaScript (like my own [Reflect.clone()` function](https://github.com/kekse1/scripts/#clonejs) ,
@@ -57,6 +52,11 @@ partially JavaScript (like my own [Reflect.clone()` function](https://github.com
 
 Here's also my notorious [**`$PS1`** prompt](https://github.com/kekse1/scripts/#promptsh) (including an
 [example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png)).
+
+## [**`v4`**](https://github.com/kekse1/v4/)
+This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
+Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
+Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projects) in my own overview? `^_^`
 
 ## [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based upon my [**v4** **lib**/](#v4),
