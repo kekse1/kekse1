@@ -17,6 +17,7 @@ Also to be found on my private website's [**`~projects`**e](https://kekse.biz/?~
 ### Index
 
 * [**`count.php`**](#countphp)
+* [**`count2`**](#count2)
 * [**`v4`**](#v4)
 * [**`scripts`**](#scripts)
 * [**`getopt.js`**](#getoptjs)
@@ -44,6 +45,10 @@ The last feature I'd like to mention here is the (configurable) **`?text`** para
 strings instead of the counted values etc., e.g. to hide some info from automatic web crawlers/spiders/..
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on my
 [**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
+
+## [**`count2`**](https://github.com/kekse1/count2/)
+_**Future** Plan(s)_ for a new [**`count.php`**](https://github.com/kekse1/count.php/),
+as [already discussed](https://www.php.de/forum/stellenangebote-und-projektausschreibungen/projekthilfe/1613771-%60count-php%60).
 
 ## [**`v4`**](https://github.com/kekse1/v4/)
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
