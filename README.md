@@ -1,9 +1,4 @@
-<!---
-kekse1/kekse1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<img src="https://kekse.biz/github.php?draw&override=github:kekse1" />
+![https://kekse.biz/github.php?draw&override=github:kekse1](kekse1)
 
 # Contact
 
@@ -101,4 +96,3 @@ and my projects are mostly licensed under the [MIT](LICENSE.txt)
 (also known as 'X' or 'X11' license).
 
 ![kekse.biz](favicon.png)
-
