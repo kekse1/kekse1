@@ -2,10 +2,10 @@
 
 # Contact
 
-| Key                  | Value                                                                                                                                     |
-| -------------------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| 👋 Website (private) | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=28px&fg=20,90,150&font=OpenSans" />        |
-| 📫 Mail address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=20,90,150&font=OpenSans" /> |
+| Key                      | Value                                                                                                                                     |
+| -----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| 👋 **Website** (private) | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=26px&fg=20,90,150&font=OpenSans" />        |
+| 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=26px&fg=20,90,150&font=OpenSans" /> |
 
 # Repositories
 Here are my own repositories, *sorted by priority*.
