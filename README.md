@@ -2,10 +2,8 @@
 
 # Contact
 
-- 👋 My **private** website: <!--[**kekse.biz**](https://kekse.biz/)-->
-<img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=32px&fg=20,90,150" />
-- 📫 How to reach me: <!--**kuchen@kekse.biz**-->
-<img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=32px&fg=20,90,150" />
+- 👋 My **private** website: <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=32px&fg=20,90,150" />
+- 📫 How to reach me: <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=32px&fg=20,90,150" />
 
 # Repositories
 Here are my own repositories, *sorted by priority*.
