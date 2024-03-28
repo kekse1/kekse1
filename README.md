@@ -9,7 +9,7 @@
 
 # Repositories
 Here are my own repositories, *sorted by priority*.
-Also to be found on my private website's [**`~projects`**e](https://kekse.biz/?~projects) page.
+Also to be found on my private website's **[`~projects`](https://kekse.biz/?~projects)** page.
 
 ### Index
 
