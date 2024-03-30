@@ -60,6 +60,9 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 _**Future** Plan(s)_ for a new [**`count.php`**](https://github.com/kekse1/count.php/),
 as [already discussed](https://www.php.de/forum/stellenangebote-und-projektausschreibungen/projekthilfe/1613771-%60count-php%60).
 
+It's under development.. at the moment the base structure is being planned and implemented, but it may change
+from time to time.. my addendum to [`count.php`](#countphp): this new **OO** design really may improve some things. ^\_^
+
 ## [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based upon my [**v4** **lib**/](#v4),
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
