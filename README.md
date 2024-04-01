@@ -4,7 +4,7 @@
 
 | Key                      | Value                                                                                                                                     |
 | -----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| 👋 **Website** (private) | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=26px&fg=20,90,150&font=OpenSans" />        |
+| 👋 **Website** (private) | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=32px&fg=20,90,150&font=OpenSans" />        |
 | 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=26px&fg=20,90,150&font=OpenSans" /> |
 
 # Repositories
