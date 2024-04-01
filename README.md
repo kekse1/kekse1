@@ -64,7 +64,7 @@ It's under development.. at the moment the base structure is being planned and i
 from time to time.. and here's my addendum to [`count.php`](#countphp): this new **OO** design may really improve some things. ^\_^
 
 ## [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
-My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based upon my [**v4** **lib**/](#v4),
+My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
 
 ## [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
