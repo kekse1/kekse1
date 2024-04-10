@@ -21,8 +21,9 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 * [**`getopt.js`**](#getoptjs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`resize.php`**](#resizephp)
-* [**`github-markdown.php`**](#github-markdownphp)
 * [**`norbert`**](#norbert)
+* [**`brainstorm`**](#brainstorm)
+* [**`github-markdown.php`**](#github-markdownphp)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
 
@@ -92,6 +93,9 @@ A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
 ## [**`norbert`**](https://github.com/kekse1/norbert/)
 Only some notes to my own A.I. I'm researching on for nearly twenty years now.. there's nothing to be downloaded
 or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`**
+
+## [**`brainstorm`**](https://github.com/kekse1/brainstorm/)
+My own **LLM** related stuff.. //**TODO**/!
 
 ## [**`v3`**](https://github.com/kekse1/v3/)
 Basically only a screenshot left of my previous **v3** web design (the **private** one).
