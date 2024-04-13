@@ -70,6 +70,10 @@ as [already discussed](https://www.php.de/forum/stellenangebote-und-projektaussc
 It's under development.. at the moment the base structure is being planned and implemented, but it may change
 from time to time.. and here's my addendum to [`count.php`](#countphp): this new **OO** design may really improve some things. ^\_^
 
+> [!TIP]
+> There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions..
+> Example given: [ `blog2`, `news2` ]; ...
+
 ## [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
