@@ -71,8 +71,8 @@ It's under development.. at the moment the base structure is being planned and i
 from time to time.. and here's my addendum to [`count.php`](#countphp): this new **OO** design may really improve some things. ^\_^
 
 > [!TIP]
-> There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions..
-> Example given: [ `blog2`, `news2` ];
+> There'll be other modules beneath the `count2` which rely on my
+`kekse` PHP extensions.. example given: [ `post2`, `group2` ];
 
 ## [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
