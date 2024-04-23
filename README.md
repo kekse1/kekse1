@@ -15,14 +15,14 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 
 * [**`smartwatch`**](#smartwatch)
 * [**`scripts`**](#scripts)
+* [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
-* [**`count2`**](#count2)
 * [**`getopt.js`**](#getoptjs)
-* [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`resize.php`**](#resizephp)
 * [**`norbert`**](#norbert)
 * [**`brainstorm`**](#brainstorm)
+* [**`count2`**](#count2)
 * [**`github-markdown.php`**](#github-markdownphp)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
@@ -41,6 +41,14 @@ partially JavaScript (like my own [Reflect.clone()` function](https://github.com
 
 Here's also my notorious [**`$PS1`** prompt](https://github.com/kekse1/scripts/#promptsh) (including an
 [example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png)).
+
+## [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
+Google got it's own animated icon set, available via web interface (and github, too):
+
+* [**Google**: The hub for everything animated emoji!](https://googlefonts.github.io/noto-emoji-animation/)
+* [**Google**: Github repository](https://github.com/googlefonts/noto-emoji)
+
+I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
 
 ## [**`v4`**](https://github.com/kekse1/v4/)
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
@@ -63,6 +71,21 @@ strings instead of the counted values etc., e.g. to hide some info from automati
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on my
 [**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
 
+## [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
+My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
+but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
+
+## [**`resize.php`**](https://github.com/kekse1/resize.php/)
+Both for the **CLI** (**C**onsole **L**ine **I**nterface) and the **web browser** (so via **HTTPD**): a script
+to resize images. Only **down**-scaling allowed, since **up**-scaling won't make any sense, for obvious reasons..
+
+## [**`norbert`**](https://github.com/kekse1/norbert/)
+Only some notes to my own A.I. I'm researching on for nearly twenty years now.. there's nothing to be downloaded
+or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`**
+
+## [**`brainstorm`**](https://github.com/kekse1/brainstorm/)
+My own **LLM** related stuff.. //**TODO**/!
+
 ## [**`count2`**](https://github.com/kekse1/count2/)
 _**Future** Plan(s)_ for a new [**`count.php`**](https://github.com/kekse1/count.php/),
 as [already discussed](https://www.php.de/forum/stellenangebote-und-projektausschreibungen/projekthilfe/1613771-%60count-php%60).
@@ -71,35 +94,10 @@ It's under development.. at the moment the base structure is being planned and i
 from time to time.. and here's my addendum to [`count.php`](#countphp): this new **OO** design may really improve some things. ^\_^
 
 > [!TIP]
-> There'll be other modules beneath the `count2` which rely on my
-`kekse` PHP extensions.. example given: [ `post2`, `group2` ];
-
-## [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
-My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
-but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
-
-## [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
-Google got it's own animated icon set, available via web interface (and github, too):
-
-* [**Google**: The hub for everything animated emoji!](https://googlefonts.github.io/noto-emoji-animation/)
-* [**Google**: Github repository](https://github.com/googlefonts/noto-emoji)
-
-I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
-It should still work, but I'm not absolutely sure, since this project is some months old..
-
-## [**`resize.php`**](https://github.com/kekse1/resize.php/)
-Both for the **CLI** (**C**onsole **L**ine **I**nterface) and the **web browser** (so via **HTTPD**): a script
-to resize images. Only **down**-scaling allowed, since **up**-scaling won't make any sense, for obvious reasons..
+> There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions.. example given: [ `post2`, `group2` ];
 
 ## [**`github-markdown.php`**](https://github.com/kekse1/github-markdown.php/)
 A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
-
-## [**`norbert`**](https://github.com/kekse1/norbert/)
-Only some notes to my own A.I. I'm researching on for nearly twenty years now.. there's nothing to be downloaded
-or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`**
-
-## [**`brainstorm`**](https://github.com/kekse1/brainstorm/)
-My own **LLM** related stuff.. //**TODO**/!
 
 ## [**`v3`**](https://github.com/kekse1/v3/)
 Basically only a screenshot left of my previous **v3** web design (the **private** one).
