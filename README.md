@@ -33,7 +33,7 @@ All these projects are described on this page, here below. Open 'em via their bi
 ## [**`smartwatch`**](https://github.com/kekse1/smartwatch/)
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Since I wanted a special watch face design, I decided to create my own one(s).
-So **here's my `Cake Collection`**! :-D
+So **here's my `Cake Design`** Collection! :-D
 
 ## [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for inclusion via `source`/`.`),
