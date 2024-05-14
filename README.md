@@ -92,7 +92,7 @@ now helps .. a bit.
 
 But now I'd like to create a fake SSHD using the default port. BUT there are some honeypots available; .. which I don't
 really need, seem too bloated for my purpose.. and there are more reasons for this, so now I wanted to create my own
-SSH server. Using [`Node.js`](https://nodejs.org/), etc.. my all-time favorite! \^_\^
+SSH server. Using [`Node.js`](https://nodejs.org/) (my all-time favorite! \^_\^);
 
 ## [**`v3`**](https://github.com/kekse1/v3/)
 Basically only a screenshot left of my previous **v3** web design (the **private** one).
