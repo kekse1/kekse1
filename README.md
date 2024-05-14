@@ -21,7 +21,7 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 * [**`getopt.js`**](#getoptjs)
 * [**`resize.php`**](#resizephp)
 * [**`github-markdown.php`**](#github-markdownphp)
-* [**FakeSSH**](#fakessh)
+* [**`FakeSSH`**](#fakessh)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
 * [**`count2`**](#count2)
@@ -85,7 +85,7 @@ to resize images. Only **down**-scaling allowed, since **up**-scaling won't make
 ## [**`github-markdown.php`**](https://github.com/kekse1/github-markdown.php/)
 A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
 
-## [**FakeSSH**](https://github.com/kekse1/FakeSSH/)
+## [**`FakeSSH`**](https://github.com/kekse1/FakeSSH/)
 This is my own **TODO**. My problem here: foreign people always try to hack my rooty, via Brute Force SSH attacks.
 After using another port, they still found it. Using [`fail2ban`](https://github.com/fail2ban/fail2ban/) for a while
 now helps .. a bit.
