@@ -20,10 +20,11 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
 * [**`resize.php`**](#resizephp)
-* [**`norbert`**](#norbert)
+<!--* [**`norbert`**](#norbert)-->
 * [**`brainstorm`**](#brainstorm)
-* [**`count2`**](#count2)
+<!--* [**`count2`**](#count2)-->
 * [**`github-markdown.php`**](#github-markdownphp)
+* [**FakeSSH**](#fakessh)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
 
@@ -86,6 +87,7 @@ or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`
 ## [**`brainstorm`**](https://github.com/kekse1/brainstorm/)
 My own **LLM** related stuff.. //**TODO**/!
 
+<!--
 ## [**`count2`**](https://github.com/kekse1/count2/)
 _**Future** Plan(s)_ for a new [**`count.php`**](https://github.com/kekse1/count.php/),
 as [already discussed](https://www.php.de/forum/stellenangebote-und-projektausschreibungen/projekthilfe/1613771-%60count-php%60).
@@ -98,6 +100,16 @@ from time to time.. and here's my addendum to [`count.php`](#countphp): this new
 
 ## [**`github-markdown.php`**](https://github.com/kekse1/github-markdown.php/)
 A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
+-->
+
+## [**FakeSSH**](https://github.com/kekse1/FakeSSH/)
+This is my own **TODO**. My problem here: foreign people always try to hack my rooty, via Brute Force SSH attacks.
+After using another port, they still found it. Using [`fail2ban`](https://github.com/fail2ban/fail2ban/) for a while
+now helps .. a bit.
+
+But now I'd like to create a fake SSHD using the default port. BUT there are some honeypots available; .. which I don't
+really need, seem too bloated for my purpose.. and there are more reasons for this, so now I wanted to create my own
+SSH server. Using [`Node.js`](https://nodejs.org/), etc.. my all-time favorite! \^_\^
 
 ## [**`v3`**](https://github.com/kekse1/v3/)
 Basically only a screenshot left of my previous **v3** web design (the **private** one).
