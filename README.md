@@ -20,13 +20,15 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
 * [**`resize.php`**](#resizephp)
-<!--* [**`norbert`**](#norbert)-->
-* [**`brainstorm`**](#brainstorm)
-<!--* [**`count2`**](#count2)-->
 * [**`github-markdown.php`**](#github-markdownphp)
 * [**FakeSSH**](#fakessh)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
+* [**`count2`**](#count2)
+<!--
+* [**`norbert`**](#norbert)
+* [**`brainstorm`**](#brainstorm)
+  -->
 
 All these projects are described on this page, here below. Open 'em via their big, bold headings.
 
@@ -80,27 +82,8 @@ but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js
 Both for the **CLI** (**C**onsole **L**ine **I**nterface) and the **web browser** (so via **HTTPD**): a script
 to resize images. Only **down**-scaling allowed, since **up**-scaling won't make any sense, for obvious reasons..
 
-## [**`norbert`**](https://github.com/kekse1/norbert/)
-Only some notes to my own A.I. I'm researching on for nearly twenty years now.. there's nothing to be downloaded
-or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`**
-
-## [**`brainstorm`**](https://github.com/kekse1/brainstorm/)
-My own **LLM** related stuff.. //**TODO**/!
-
-<!--
-## [**`count2`**](https://github.com/kekse1/count2/)
-_**Future** Plan(s)_ for a new [**`count.php`**](https://github.com/kekse1/count.php/),
-as [already discussed](https://www.php.de/forum/stellenangebote-und-projektausschreibungen/projekthilfe/1613771-%60count-php%60).
-
-It's under development.. at the moment the base structure is being planned and implemented, but it may change
-from time to time.. and here's my addendum to [`count.php`](#countphp): this new **OO** design may really improve some things. ^\_^
-
-> [!TIP]
-> There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions.. example given: [ `post2`, `group2` ];
-
 ## [**`github-markdown.php`**](https://github.com/kekse1/github-markdown.php/)
 A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
--->
 
 ## [**FakeSSH**](https://github.com/kekse1/FakeSSH/)
 This is my own **TODO**. My problem here: foreign people always try to hack my rooty, via Brute Force SSH attacks.
@@ -118,6 +101,28 @@ The code is deleted, since my newest [**v4**](#v4) is available right now.
 ## [**`lib.js`**](https://github.com/kekse1/lib.js/)
 Only a memory of some older [**libjs.de**](https://libjs.de/) times.. the project ended some time ago, in it's
 place now the newest [**v4**](#v4), respectively it's **`lib`/** part.
+
+## [**`count2`**](https://github.com/kekse1/count2/)
+_**Future** Plan(s)_ for a new [**`count.php`**](https://github.com/kekse1/count.php/);
+
+> [!IMPORTANT]
+> Currently suspended for a while (because my [**`Norbert`**](https://github.com/kekse1/norbert/)
+> project enjoys all my free time atm.)!
+
+<!--
+## [**`norbert`**](https://github.com/kekse1/norbert/)
+Only some notes to my own A.I. I'm researching on for nearly twenty years now.. there's nothing to be downloaded
+or so, it's just a remark that my own `Norbert` is somewhere out there.. **`^_^`**
+
+## [**`brainstorm`**](https://github.com/kekse1/brainstorm/)
+My own **LLM** related stuff.. //**TODO**/!
+
+It's under development.. at the moment the base structure is being planned and implemented, but it may change
+from time to time.. and here's my addendum to [`count.php`](#countphp): this new **OO** design may really improve some things. ^\_^
+
+> [!TIP]
+> There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions.. example given: [ `post2`, `group2` ];
+-->
 
 # Copyright and License
 The copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
