@@ -22,6 +22,7 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 * [**`resize.php`**](#resizephp)
 * [**`github-markdown.php`**](#github-markdownphp)
 * [**`FakeSSH`**](#fakessh)
+* [**`netz`**](#netz)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
 * [**`count2`**](#count2)
@@ -93,6 +94,10 @@ now helps .. a bit.
 But now I'd like to create a fake SSHD using the default port. BUT there are some honeypots available; .. which I don't
 really need, seem too bloated for my purpose.. and there are more reasons for this, so now I wanted to create my own
 SSH server. Using [`Node.js`](https://nodejs.org/) (my all-time favorite! \^_\^);
+
+## [**`netz`**](https://github.com/kekse1/netz/)
+I needed a HTTPD w/ WebSocket support.. so I implemented it. Inclusive **own** WebSocket protocol parser/.. etc.
+When it's "finished", I have to separate it from the rest of my project; after it, I'll upload it here.
 
 ## [**`v3`**](https://github.com/kekse1/v3/)
 Basically only a screenshot left of my previous **v3** web design (the **private** one).
