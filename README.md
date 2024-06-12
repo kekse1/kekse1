@@ -36,7 +36,7 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 ### [**`smartwatch`**](https://github.com/kekse1/smartwatch/)
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
-I decided to create my own one(s). So here's my **`Biscuits Collection`**! :-D
+I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
 ### [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for inclusion via `source`/`.`),
