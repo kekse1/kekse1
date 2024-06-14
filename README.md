@@ -40,8 +40,8 @@ Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
 ### [**`prompt`**](https://github.com/kekse1/prompt/)
-Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/scripts/#promptsh) (with
-[example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png)). *Just moved
+Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/) (with
+[example screenshot](https://github.com/kekse1/prompt/blob/master/img/screenshot.png)). *Just moved
 from the [`scripts`](#scripts) repository to it's own one*.
 
 ### [**`scripts`**](https://github.com/kekse1/scripts/)
