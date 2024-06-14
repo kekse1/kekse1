@@ -16,6 +16,7 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 #### Index
 
 * [**`smartwatch`**](#smartwatch)
+* [**`prompt`**](#prompt)
 * [**`scripts`**](#scripts)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`v4`**](#v4)
@@ -38,13 +39,14 @@ Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
-### [**`scripts`**](https://github.com/kekse1/scripts/)
-Mostly [bash shell](https://www.gnu.org/software/bash/) **scripts** (some also for inclusion via `source`/`.`),
-partially JavaScript (like my own [Reflect.clone()` function](https://github.com/kekse1/scripts/#clonejs) ,
- and maybe even more?
+### [**`prompt`**](https://github.com/kekse1/prompt/)
+Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/scripts/#promptsh) (with
+[example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png)). *Just moved
+from the [`scripts`](#scripts) repository to it's own one*.
 
-Here's also my notorious [**`$PS1`** prompt](https://github.com/kekse1/scripts/#promptsh) (including an
-[example screenshot](https://github.com/kekse1/scripts/blob/master/img/prompt.png)).
+### [**`scripts`**](https://github.com/kekse1/scripts/)
+Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
+some for inclusion via `source` or `.`). Partially also JavaScript's, and atm even one C/C++..
 
 ### [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
 Google got it's own animated icon set, available via web interface (and github, too):
