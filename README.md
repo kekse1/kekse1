@@ -131,6 +131,9 @@ from time to time.. and here's my addendum to [`count.php`](#countphp): this new
 > There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions.. example given: [ `post2`, `group2` ];
 -->
 
+## My [**prompt**](https://github.com/kekse1/prompt/)
+![My **prompt**, example screenshot](prompt.png)
+
 ## Copyright and License
 The copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
 and my projects are mostly licensed under the [MIT](LICENSE.txt)
