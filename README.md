@@ -130,6 +130,14 @@ from time to time.. and here's my addendum to [`count.php`](#countphp): this new
 > There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions.. example given: [ `post2`, `group2` ];
 -->
 
+## Forks
+Some interesting repositories I wanted to mirror here.
+
+* [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
+* [**llm-course**](https://github.com/kekse1/llm-course/)
+* [**knowledge**](https://github.com/kekse1/knowledge/)
+* [**MS-DOS**](https://github.com/kekse1/MS-DOS/)
+
 ## My [**prompt**](https://github.com/kekse1/prompt/)
 ![My **prompt**, example screenshot](prompt.png)
 
