@@ -146,5 +146,9 @@ Some interesting repositories I wanted to mirror here.
 ## My [**prompt**](https://github.com/kekse1/prompt/)
 ![My **prompt**, example screenshot](prompt.png)
 
-# [**`kekse.biz`**](https://kekse.biz/)
-![kekse.biz](favicon.png)
+# Kuchen`s
+
+<a href="https://kekse.biz/" target="_blank">
+<img src="favicon.png" alt="My Favicon" />
+</a>
+
