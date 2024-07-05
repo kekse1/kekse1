@@ -144,8 +144,8 @@ Some interesting repositories I wanted to mirror here.
 * [**knowledge**](https://github.com/kekse1/knowledge/)
 * [**MS-DOS**](https://github.com/kekse1/MS-DOS/)
 
-## My [**Prompt**](https://github.com/kekse1/prompt/sh/prompt.sh)
-<a href="https://kekse.biz/?github://kekse1/prompt/" target="_blank">
+## My [**Prompt**](https://kekse.biz/?github://kekse1/prompt/)
+<a href="https://github.com/kekse1/prompt/blob/git/sh/prompt.sh" target="_blank">
 <img src="img/prompt.png" alt="My Prompt" />
 </a>
 
