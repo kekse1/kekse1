@@ -144,13 +144,12 @@ Some interesting repositories I wanted to mirror here.
 * [**knowledge**](https://github.com/kekse1/knowledge/)
 * [**MS-DOS**](https://github.com/kekse1/MS-DOS/)
 
-## My [**Prompt**](https://github.com/kekse1/prompt/)
+## My [**Prompt**](https://github.com/kekse1/prompt/sh/prompt.sh)
 <a href="https://kekse.biz/?github://kekse1/prompt/" target="_blank">
 <img src="img/prompt.png" alt="My Prompt" />
 </a>
 
-# Kuchen`s
-
+# My [**Favicon**](img/favicon.512px.png)
 <a href="https://kekse.biz/" target="_blank">
 <img src="img/favicon.256px.png" alt="My Favicon" />
 </a>
