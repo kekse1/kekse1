@@ -146,12 +146,12 @@ Some interesting repositories I wanted to mirror here.
 
 ## My [**Prompt**](https://github.com/kekse1/prompt/)
 <a href="https://kekse.biz/?github://kekse1/prompt/" target="_blank">
-<img src="prompt.png" alt="My Prompt" />
+<img src="img/prompt.png" alt="My Prompt" />
 </a>
 
 # Kuchen`s
 
 <a href="https://kekse.biz/" target="_blank">
-<img src="favicon.png" alt="My Favicon" />
+<img src="img/favicon.256px.png" alt="My Favicon" />
 </a>
 
