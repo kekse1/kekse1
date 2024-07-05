@@ -142,7 +142,7 @@ Some interesting repositories I wanted to mirror here.
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
 * [**knowledge**](https://github.com/kekse1/knowledge/)
-* [**MS-DOS**](https://github.com/kekse1/MS-DOS/)
+* [MS-DOS](https://github.com/kekse1/MS-DOS/)
 
 ## My [**Prompt**](https://kekse.biz/?github://kekse1/prompt/)
 <a href="https://github.com/kekse1/prompt/blob/git/sh/prompt.sh" target="_blank">
