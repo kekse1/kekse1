@@ -145,7 +145,9 @@ Some interesting repositories I wanted to mirror here.
 * [**MS-DOS**](https://github.com/kekse1/MS-DOS/)
 
 ## My [**Prompt**](https://github.com/kekse1/prompt/)
-![My **Prompt**, example screenshot](prompt.png)
+<a href="https://kekse.biz/?github://kekse1/prompt/" target="_blank">
+<img src="prompt.png" alt="My Prompt" />
+</a>
 
 # Kuchen`s
 
