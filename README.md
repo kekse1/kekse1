@@ -9,6 +9,11 @@
 
 # **kekse1**'s
 
+## Index
+* [Repositories](#repositories)
+* [Forks](#forks)
+* [My **prompt**](#my-prompt)
+
 ## Repositories
 Here are my own repositories, *sorted by priority*.
 Also to be found on my private website's **[`~projects`](https://kekse.biz/?~projects)** page.
@@ -141,9 +146,5 @@ Some interesting repositories I wanted to mirror here.
 ## My [**prompt**](https://github.com/kekse1/prompt/)
 ![My **prompt**, example screenshot](prompt.png)
 
-## Copyright and License
-The copyright is [(c) Sebastian Kucharczyk](COPYRIGHT.txt),
-and my projects are mostly licensed under the [MIT](LICENSE.txt)
-(also known as 'X' or 'X11' license).
-
+# [**`kekse.biz`**](https://kekse.biz/)
 ![kekse.biz](favicon.png)
