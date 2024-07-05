@@ -12,7 +12,8 @@
 ## Index
 * [Repositories](#repositories)
 * [Forks](#forks)
-* [My **prompt**](#my-prompt)
+* [My **Prompt**](#my-prompt)
+* [My **Favicon**](#kuchens)
 
 ## Repositories
 Here are my own repositories, *sorted by priority*.
@@ -143,8 +144,8 @@ Some interesting repositories I wanted to mirror here.
 * [**knowledge**](https://github.com/kekse1/knowledge/)
 * [**MS-DOS**](https://github.com/kekse1/MS-DOS/)
 
-## My [**prompt**](https://github.com/kekse1/prompt/)
-![My **prompt**, example screenshot](prompt.png)
+## My [**Prompt**](https://github.com/kekse1/prompt/)
+![My **Prompt**, example screenshot](prompt.png)
 
 # Kuchen`s
 
