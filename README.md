@@ -13,7 +13,7 @@
 * [Repositories](#repositories)
 * [Forks](#forks)
 * [My **Prompt**](#my-prompt)
-* [My **Favicon**](#kuchens)
+* [My **Favicon**](#my-favicon)
 
 ## Repositories
 Here are my own repositories, *sorted by priority*.
