@@ -149,8 +149,8 @@ Some interesting repositories I wanted to mirror here.
 <img src="img/prompt.png" alt="My Prompt" />
 </a>
 
-# My [**Favicon**](img/favicon.512px.png)
-<a href="https://kekse.biz/" target="_blank">
+# My [**Favicon**](https://kekse.biz/)
+<a href="img/favicon.512px.png" target="_blank">
 <img src="img/favicon.256px.png" alt="My Favicon" />
 </a>
 
