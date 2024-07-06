@@ -10,12 +10,12 @@
 # **kekse1**'s
 
 ## Index
-* [Repositories](#repositories)
-* [Forks](#forks)
+* [**Repositories**](#repositories)
+* [My **Forks**](#my-forks)
 * [My **Prompt**](#my-prompt)
 * [My **Favicon**](#kuchens)
 
-## Repositories
+## **Repositories**
 Here are my own repositories, *sorted by priority*.
 Also to be found on my private website's **[`~projects`](https://kekse.biz/?~projects)** page.
 
@@ -136,7 +136,7 @@ from time to time.. and here's my addendum to [`count.php`](#countphp): this new
 > There'll be other modules beneath the `count2` which rely on my `kekse` PHP extensions.. example given: [ `post2`, `group2` ];
 -->
 
-## Forks
+## My **Forks**
 Some interesting repositories I wanted to mirror here.
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
