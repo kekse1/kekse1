@@ -24,6 +24,7 @@ Also to be found on my private website's **[`~projects`](https://kekse.biz/?~pro
 * [**`smartwatch`**](#smartwatch)
 * [**`prompt`**](#prompt)
 * [**`scripts`**](#scripts)
+* [**`json`.js**](#jsonjs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`netz`**](#netz)
 * [**`v4`**](#v4)
@@ -52,6 +53,10 @@ the [`scripts`](#scripts) repository to it's own one*. Here's also the [example 
 ### [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
 some for inclusion via `source` or `.`). Partially also JavaScript's, and atm even one C/C++..
+
+### [**`json`.js**](https://github.com/kekse1/json.js/)
+Just started this, since I needed to insert comments in my
+[**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
 
 ### [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
 Google got it's own animated icon set, available via web interface (and github, too):
