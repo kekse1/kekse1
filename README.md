@@ -55,7 +55,7 @@ Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some fo
 some for inclusion via `source` or `.`). Partially also JavaScript's, and atm even one C/C++..
 
 ### [**`json.js`**](https://github.com/kekse1/json.js/)
-Just started this, since I needed to insert comments in my
+Just started this one, since I needed to insert comments in my
 [**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
 
 ### [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
