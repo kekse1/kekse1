@@ -7,7 +7,7 @@
 | 👋 **Website** (private) | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=38px&fg=20,90,150&font=OpenSans&ro&readonly" />        |
 | 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=20,90,150&font=OpenSans&ro&readonly" /> |
 
-# **kekse1**'s
+# **Kuchen**'s
 
 ## Overview
 * [**Repositories**](#repositories)
