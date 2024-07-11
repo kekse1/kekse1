@@ -128,6 +128,6 @@ Some interesting repositories I wanted to mirror here.
 
 # My [**Favicon**](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
-<img src="img/favicon.256px.png" alt="My Favicon" />
+<img src="img/favicon.256px.png" alt="Favicon" />
 </a>
 
