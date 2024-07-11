@@ -16,7 +16,7 @@
 * [My **Favicon**](#my-favicon)
 
 ## **Repositories**
-Here are my own repositories, *sorted by priority*.. not all, but the 'best' ones.
+Here are my own repositories, *sorted by priority*.. not all, but the most important ones.
 Also to be found on my private website's **[`~projects`](https://kekse.biz/?~projects)** page.
 
 #### Index
