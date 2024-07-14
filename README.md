@@ -25,13 +25,10 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 * [**`scripts`**](#scripts)
 * [**`json.js`**](#jsonjs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
-* [**`netz`**](#netz)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
 * [**`resize.php`**](#resizephp)
-* [**`github-markdown.php`**](#github-markdownphp)
-* [**`FakeSSH`**](#fakessh)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
 
@@ -59,10 +56,6 @@ Google got it's own animated icon set, available via web interface (and github, 
 * [**Google**: Github repository](https://github.com/googlefonts/noto-emoji)
 
 I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
-
-### [**`netz`**](https://github.com/kekse1/netz/)
-I needed a HTTPD w/ WebSocket support.. so I implemented it. Inclusive **own** WebSocket protocol parser/.. etc.
-When it's "finished", I have to separate it from the rest of my project; after it, I'll upload it here.
 
 ### [**`v4`**](https://github.com/kekse1/v4/)
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
@@ -93,13 +86,17 @@ but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js
 Both for the **CLI** (**C**onsole **L**ine **I**nterface) and the **web browser** (so via **HTTPD**): a script
 to resize images. Only **down**-scaling allowed, since **up**-scaling won't make any sense, for obvious reasons..
 
+<!--
 ### [**`github-markdown.php`**](https://github.com/kekse1/github-markdown.php/)
 A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
+-->
 
+<!--
 ### [**`FakeSSH`**](https://github.com/kekse1/FakeSSH/)
 This is my own **TODO**. My problem here: foreign people always try to hack my rooty, via Brute Force SSH attacks.
 After using another port, they still found it. Using [`fail2ban`](https://github.com/fail2ban/fail2ban/) for a while
 now helps .. a bit.
+-->
 
 But now I'd like to create a fake SSHD using the default port. BUT there are some honeypots available; .. which I don't
 really need, seem too bloated for my purpose.. and there are more reasons for this, so now I wanted to create my own
