@@ -31,6 +31,7 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 * [**`resize.php`**](#resizephp)
 * [**`v3`**](#v3)
 * [**`lib.js`**](#libjs)
+* [Other](#other)
 
 ### [**`smartwatch`**](https://github.com/kekse1/smartwatch/)
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
@@ -109,6 +110,9 @@ The code is deleted, since my newest [**v4**](#v4) is available right now.
 ### [**`lib.js`**](https://github.com/kekse1/lib.js/)
 Only a memory of some older [**libjs.de**](https://libjs.de/) times.. the project ended some time ago, in it's
 place now the newest [**v4**](#v4), respectively it's **`lib`/** part.
+
+### [Other](https://github.com/kekse1?tab=repositories)
+https://github.com/kekse1?tab=repositories
 
 ## My **Forks**
 Some interesting repositories I wanted to mirror here.
