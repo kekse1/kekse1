@@ -126,6 +126,7 @@ Some interesting repositories I wanted to mirror here.
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
 * [**knowledge**](https://github.com/kekse1/knowledge/)
+* [**c64ref**](https://github.com/kekse1/c64ref/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archive)
 
 ## My [**Prompt**](https://kekse.biz/?github://kekse1/prompt/)
