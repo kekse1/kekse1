@@ -29,8 +29,7 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
 * [**`resize.php`**](#resizephp)
-* [**`v3`**](#v3)
-* [**`lib.js`**](#libjs)
+* [**`norbert`**](#norbert)
 * [(All Repositories)](#all-repositories)
 
 ### [**`smartwatch`**](https://github.com/kekse1/smartwatch/)
@@ -103,13 +102,20 @@ But now I'd like to create a fake SSHD using the default port. BUT there are som
 really need, seem too bloated for my purpose.. and there are more reasons for this, so now I wanted to create my own
 SSH server. Using [`Node.js`](https://nodejs.org/) (my all-time favorite! \^_\^);
 
+<!--
 ### [**`v3`**](https://github.com/kekse1/v3/)
 Basically only a screenshot left of my previous **v3** web design (the **private** one).
 The code is deleted, since my newest [**v4**](#v4) is available right now.
+-->
 
+<!--
 ### [**`lib.js`**](https://github.com/kekse1/lib.js/)
 Only a memory of some older [**libjs.de**](https://libjs.de/) times.. the project ended some time ago, in it's
 place now the newest [**v4**](#v4), respectively it's **`lib`/** part.
+-->
+
+### [**`norbert`**](https://github.com/kekse1/norbert/)
+My own **quantum artificial general intelligence**.
 
 ### [(All repositories)](https://github.com/kekse1?tab=repositories)
 https://github.com/kekse1?tab=repositories
