@@ -126,6 +126,7 @@ Some interesting repositories I wanted to mirror here.
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
 * [**knowledge**](https://github.com/kekse1/knowledge/)
+* [**RadixRedux**](https://github.com/kekse1/RadixRedux/)
 * [**c64ref**](https://github.com/kekse1/c64ref/)
 * [**deep-tempest**](https://github.com/kekse1/deep-tempest/)
 * [**gr-tempest**](https://github.com/kekse1/gr-tempest/)
