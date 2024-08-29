@@ -2,10 +2,10 @@
 
 # Contact
 
-| Key                      | Value                                                                                                                                                 |
-| -----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 👋 **Website** (private) | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=38px&fg=20,90,150&font=OpenSans&ro&readonly" />        |
-| 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=20,90,150&font=OpenSans&ro&readonly" /> |
+| Key                      | Value                                                                                                                                                                           |
+| -----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 👋 **Website** (private) | <a href="https://kekse.biz/"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=38px&fg=20,90,150&font=OpenSans&ro&readonly" /></a> |
+| 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=20,90,150&font=OpenSans&ro&readonly" />                           |
 
 # **Kuchen**'s
 
