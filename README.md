@@ -14,7 +14,7 @@
 * [My **Forks**](#my-forks)
 * [My **Prompt**](#my-prompt)
 * [My **Favicon**](#my-favicon)
-* [My **Sneakers**](#my-sneakers)
+* [My **Sneakers** xD~](#my-sneakers-xd)
 
 ## **Repositories**
 Here are my own repositories, *sorted by priority*.. not all, but the most important ones.
@@ -145,6 +145,6 @@ Some interesting repositories I wanted to mirror here.
 
 # My [**Sneakers**](https://kekse.biz/?~sneaker) **xD~**
 <a href="https://kekse.biz/?~sneakers">
-<img src="img/sneakers.non.png" alt="éS Accel" />
+<img src="img/sneakers.png" alt="éS Accel" />
 </a>
 
