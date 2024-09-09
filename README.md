@@ -14,7 +14,7 @@
 * [My **Forks**](#my-forks)
 * [My **Prompt**](#my-prompt)
 * [My **Favicon**](#my-favicon)
-* [My **Sneakers** xD~](#my-sneakers-xd)
+* [My **Sneakers**](#my-sneakers-xd)
 
 ## **Repositories**
 Here are my own repositories, *sorted by priority*.. not all, but the most important ones.
