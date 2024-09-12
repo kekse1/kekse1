@@ -24,6 +24,7 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 * [**`prompt`**](#prompt)
 * [**`scripts`**](#scripts)
 * [**`json.js`**](#jsonjs)
+* [**`ansi.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
@@ -48,6 +49,9 @@ some for inclusion via `source` or `.`). Partially also JavaScript's, and atm ev
 ### [**`json.js`**](https://github.com/kekse1/json.js/)
 Just started this one, since I needed to insert comments in my
 [**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
+
+### [**`ansi.js`**](https://github.com/kekse1/ansi.js/)
+Currently beginning with this project, it doesn't provide any sources yet.
 
 ### [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
 Google got it's own animated icon set, available via web interface (and github, too):
