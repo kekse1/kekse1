@@ -147,6 +147,6 @@ Some interesting repositories I wanted to mirror here.
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
 
-# My [**Sneakers**]
+# My **Sneakers**
 <img src="img/sneakers.png" alt="Etnies" />
 
