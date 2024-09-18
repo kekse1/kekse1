@@ -52,7 +52,7 @@ Just started this one, since I needed to insert comments in my
 [**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
 
 ### [**`ansi.js`**](https://github.com/kekse1/ansi.js/)
-Currently beginning with this project, it doesn't provide any sources yet.
+Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escape Sequences**.
 
 ### [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
 Google got it's own animated icon set, available via web interface (and github, too):
