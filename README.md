@@ -23,9 +23,9 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 
 * [**`smartwatch`**](#smartwatch)
 * [**`prompt`**](#prompt)
+* [**`utility`**](#utility)
 * [**`scripts`**](#scripts)
 * [**`javascript`**](#javascript)
-* [**`utility`**](#utility)
 * [**`json.js`**](#jsonjs)
 * [**`ansi.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -45,17 +45,17 @@ I decided to create my own one(s). So here's my [**`Biscuits Collection`**](http
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
+### [**`utility`**](https://github.com/kekse1/utility/)
+When I created a script which I found to be very useful, I decided to additionally create
+this repository for some most useful scripts that would be overlooked in the original
+[**`scripts`**](#scripts) repository..
+
 ### [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
 some for inclusion via `source` or `.`). Partially also JavaScript's, and atm even one C/C++..
 
 ### [**`JavaScript`**](https://github.com/kekse1/javascript/)
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
-
-### [**`utility`**](https://github.com/kekse1/utility/)
-When I created a script which I found to be very useful, I decided to additionally create
-this repository for some most useful scripts that would be overlooked in the original
-[**`scripts`**](#scripts) repository..
 
 ### [**`json.js`**](https://github.com/kekse1/json.js/)
 Just started this one, since I needed to insert comments in my
