@@ -52,7 +52,8 @@ this repository for some most useful scripts that would be overlooked in the ori
 
 ### [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
-some for inclusion via `source` or `.`). Partially also JavaScript's, and atm even one C/C++..
+some for inclusion via `source` or `.`). At the moment even one C/C++.. **the [`JavaScript`s](#javascript)
+moved to their [own repository](https://github.com/kekse1/javascript/) \[2024-09-24\];
 
 ### [**`JavaScript`**](https://github.com/kekse1/javascript/)
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
