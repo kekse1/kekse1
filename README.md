@@ -147,6 +147,7 @@ Some interesting repositories I wanted to mirror here.
 * [**deep-tempest**](https://github.com/kekse1/deep-tempest/)
 * [**gr-tempest**](https://github.com/kekse1/gr-tempest/)
 * [**games**](https://github.com/kekse1/games/)
+* [**mosel**](https://github.com/kekse1/mosel/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archive)
 
 ## My [**Prompt**](https://kekse.biz/?github://kekse1/prompt/)
