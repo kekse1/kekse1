@@ -26,6 +26,7 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 * [**`utilities`**](#utilities)
 * [**`scripts`**](#scripts)
 * [**`javascript`**](#javascript)
+* [**`dump`**](#dump)
 * [**`json.js`**](#jsonjs)
 * [**`ansi.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -57,6 +58,11 @@ moved to their [own repository](https://github.com/kekse1/javascript/) \[2024-09
 
 ### [**`JavaScript`**](https://github.com/kekse1/javascript/)
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
+
+### [**`dump`**](https://github.com/kekse1/dump/)
+[Alpha state] **Radix Viewer/Editor** ... with many nice features planned, but atm I'm developing
+on it only a little bit. My plan was to use this tool to inspect the disk partitions for my
+[**Norbert**](#norbert) project (with automatical refresh, and only the `--head`, etc..).
 
 ### [**`json.js`**](https://github.com/kekse1/json.js/)
 Just started this one, since I needed to insert comments in my
