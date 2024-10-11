@@ -60,9 +60,17 @@ moved to their [own repository](https://github.com/kekse1/javascript/) \[2024-09
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
 
 ### [**`dump`**](https://github.com/kekse1/dump/)
-[Alpha state] **Radix Viewer/Editor** ... with many nice features planned, but atm I'm developing
-on it only a little bit. My plan was to use this tool to inspect the disk partitions for my
-[**Norbert**](#norbert) project (with automatical refresh, and only the `--head`, etc..).
+[Alpha state] **Radix Viewer/Editor** ...
+
+> [!TIP]
+> When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
+
+First version with only **viewing** functionality, but there is much more planned.
+
+This **sub** project started since I wanted to observe the header values of my
+[Norbert](#norbert) project (with `--refresh` in `--radix 10`). The whole code (based
+on my own infrastructure/framework) was a piece of cake, so I decided to make it public
+although any polyfill is missing. More as an example code for you. **hf**.
 
 ### [**`json.js`**](https://github.com/kekse1/json.js/)
 Just started this one, since I needed to insert comments in my
