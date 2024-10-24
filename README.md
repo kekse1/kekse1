@@ -68,9 +68,10 @@ This started by moving all the JavaScripts from my [**`scripts`**](#scripts) rep
 First version with only **viewing** functionality, but there is much more planned.
 
 This **sub** project started since I wanted to observe the header values of my
-[Norbert](#norbert) project (with `--refresh` in `--radix 10`). The whole code (based
-on my own infrastructure/framework) was a piece of cake, so I decided to make it public
-although any polyfill is missing. More as an example code for you. **hf**.
+[Norbert](#norbert) project (with `--refresh` in `--radix 10`). The whole code
+(based on my own infrastructure/framework) was a piece of cake, so I decided
+to make it public although any polyfill is missing. Merely an example code
+for you. **hf**.
 
 ### [**`json.js`**](https://github.com/kekse1/json.js/)
 Just started this one, since I needed to insert comments in my
