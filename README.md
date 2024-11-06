@@ -16,7 +16,7 @@
 * [My **Favicon**](#my-favicon)
 * [My **Sneakers**](#my-sneakers)
 
-## **Repositories**
+## Repositories
 Here are my own repositories, *sorted by priority*.. not all, but the most important ones.
 
 #### Index
@@ -151,7 +151,7 @@ My own **quantum artificial general intelligence**.
 ### [(All repositories)](https://github.com/kekse1?tab=repositories)
 https://github.com/kekse1?tab=repositories
 
-## My **Forks**
+## My Forks
 Some interesting repositories I wanted to mirror here.
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
@@ -164,18 +164,19 @@ Some interesting repositories I wanted to mirror here.
 * [**games**](https://github.com/kekse1/games/)
 * [**mosel**](https://github.com/kekse1/mosel/)
 * [**AutoDAN-Turbo**](https://github.com/kekse1/AutoDAN-Turbo/)
+* [**PC/GEOS**](https://github.com/kekse1/pcgeos/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archive)
 
-## My [**Prompt**](https://kekse.biz/?github://kekse1/prompt/)
+## My [Prompt](https://kekse.biz/?github://kekse1/prompt/)
 <a href="https://github.com/kekse1/prompt/blob/git/sh/prompt.sh" target="_blank">
 <img src="img/prompt.png" alt="My Prompt" />
 </a>
 
-# My [**Favicon**](https://kekse.biz/)
+# My [Favicon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
 
-# My [**Sneakers**](https://etnies.com/)
+# My [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
 
