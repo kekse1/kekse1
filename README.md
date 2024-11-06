@@ -164,7 +164,6 @@ Some interesting repositories I wanted to mirror here.
 * [**games**](https://github.com/kekse1/games/)
 * [**mosel**](https://github.com/kekse1/mosel/)
 * [**AutoDAN-Turbo**](https://github.com/kekse1/AutoDAN-Turbo/)
-* [**PC/GEOS**](https://github.com/kekse1/pcgeos/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archive)
 
 ## My [Prompt](https://kekse.biz/?github://kekse1/prompt/)
