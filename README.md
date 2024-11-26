@@ -23,7 +23,6 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 
 * [**`smartwatch`**](#smartwatch)
 * [**`prompt`**](#prompt)
-* [**`utilities`**](#utilities)
 * [**`scripts`**](#scripts)
 * [**`javascript`**](#javascript)
 * [**`dump`**](#dump)
@@ -45,11 +44,6 @@ I decided to create my own one(s). So here's my [**`Biscuits Collection`**](http
 ### [**`prompt`**](https://github.com/kekse1/prompt/)
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
-
-### [**`utilities`**](https://github.com/kekse1/utilities/)
-When I created a script which I found to be very useful, I decided to additionally create
-this repository for some most useful scripts that would be overlooked in the original
-[**`scripts`**](#scripts) repository..
 
 ### [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
