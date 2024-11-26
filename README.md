@@ -23,9 +23,9 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 
 * [**`smartwatch`**](#smartwatch)
 * [**`prompt`**](#prompt)
+* [**`dump`**](#dump)
 * [**`scripts`**](#scripts)
 * [**`javascript`**](#javascript)
-* [**`dump`**](#dump)
 * [**`json.js`**](#jsonjs)
 * [**`ansi.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -45,14 +45,6 @@ I decided to create my own one(s). So here's my [**`Biscuits Collection`**](http
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
-### [**`scripts`**](https://github.com/kekse1/scripts/)
-Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
-some for inclusion via `source` or `.`). At the moment even one C/C++.. **the [`JavaScript`s](#javascript)
-moved to their [own repository](https://github.com/kekse1/javascript/) \[2024-09-24\]**;
-
-### [**`JavaScript`**](https://github.com/kekse1/javascript/)
-This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
-
 ### [**`dump`**](https://github.com/kekse1/dump/)
 [Alpha state] **Radix Viewer/Editor** ...
 
@@ -66,6 +58,14 @@ This **sub** project started since I wanted to observe the header values of my
 (based on my own infrastructure/framework) was a piece of cake, so I decided
 to make it public although any polyfill is missing. Merely an example code
 for you. **hf**.
+
+### [**`scripts`**](https://github.com/kekse1/scripts/)
+Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
+some for inclusion via `source` or `.`). At the moment even one C/C++.. **the [`JavaScript`s](#javascript)
+moved to their [own repository](https://github.com/kekse1/javascript/) \[2024-09-24\]**;
+
+### [**`JavaScript`**](https://github.com/kekse1/javascript/)
+This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
 
 ### [**`json.js`**](https://github.com/kekse1/json.js/)
 Just started this one, since I needed to insert comments in my
