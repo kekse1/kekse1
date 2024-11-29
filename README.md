@@ -46,12 +46,12 @@ Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Jus
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
 ### [**`dump`**](https://github.com/kekse1/dump/)
-[Alpha state] **Radix Viewer/Editor** ...
+My own **Radix Viewer**.
 
 > [!TIP]
 > When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
 
-First version with only **viewing** functionality, but there is much more planned.
+First version with only **viewing** functionality.
 
 This **sub** project started since I wanted to observe the header values of my
 [Norbert](#norbert) project (with `--refresh` in `--radix 10`). The whole code
