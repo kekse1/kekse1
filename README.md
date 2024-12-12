@@ -44,7 +44,7 @@ I decided to create my own one(s). So here's my [**`Biscuits Collection`**](http
 ### [**`dump`**](https://github.com/kekse1/dump/)
 My own **Radix Viewer**.
 
-> [!TIP]
+> [!NOTE]
 > When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
 
 First version with only **viewing** functionality. And it only supports radix/base **2** to **36**,
