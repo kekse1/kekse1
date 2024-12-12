@@ -13,25 +13,11 @@
 
 ## Overview
 
-<a href="#repositories">
-<img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Repositories" />
-</a>
-
-<a href="#my-forks">
-<img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Forks" />
-</a>
-
-<a href="#my-prompt">
-<img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Prompt" />
-</a>
-
-<a href="#my-favicon">
-<img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Favicon" />
-</a>
-
-<a href="#my-sneakers">
-<img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Sneakers" />
-</a>
+* <a href="#repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Repositories" /></a>
+* <a href="#my-forks"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Forks" /></a>
+* <a href="#my-prompt"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Prompt" /></a>
+* <a href="#my-favicon"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Favicon" /></a>
+* <a href="#my-sneakers"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=16&h=24&text=my+Sneakers" /></a>
 
 ## Repositories
 Here are my own repositories, *sorted by priority*.. not all, but the most important ones.
