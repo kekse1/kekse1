@@ -19,6 +19,12 @@
 * my [**FavIcon**](#my-favicon)
 * my [**Sneakers**](#my-sneakers)
 
+## Repositories
+Here are some of my own repositories, sorted by (kinda) priority.
+
+> [!NOTE]
+> This is not [the **whole list**](#all-repositories)!
+
 #### Index
 
 * [**`smartwatch`**](#smartwatch)
