@@ -145,7 +145,7 @@ but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js
 My own **quantum artificial general intelligence**.
 
 <a href="https://github.com/kekse1?tab=repositories">
-<img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=(all%20Repositories)" />
+<img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=(%20all%20Repositories%20)" />
 </a>
 
 The [full repository list](https://github.com/kekse1?tab=repositories) is also available here on [GitHub](https://github.com/).
