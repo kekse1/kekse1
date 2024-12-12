@@ -22,8 +22,8 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 #### Index
 
 * [**`smartwatch`**](#smartwatch)
-* [**`prompt`**](#prompt)
 * [**`dump`**](#dump)
+* [**`prompt`**](#prompt)
 * [**`scripts`**](#scripts)
 * [**`javascript`**](#javascript)
 * [**`json.js`**](#jsonjs)
@@ -41,23 +41,19 @@ Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
-### [**`prompt`**](https://github.com/kekse1/prompt/)
-Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
-the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
-
 ### [**`dump`**](https://github.com/kekse1/dump/)
 My own **Radix Viewer**.
 
 > [!TIP]
 > When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
 
-First version with only **viewing** functionality.
+First version with only **viewing** functionality. And it only supports radix/base **2** to **36**,
+the default within JavaScript. My own `radix.js` is already there, but not in this project.. gonna
+to copy it over here **l8rs**.
 
-This **sub** project started since I wanted to observe the header values of my
-[Norbert](#norbert) project (with `--refresh` in `--radix 10`). The whole code
-(based on my own infrastructure/framework) was a piece of cake, so I decided
-to make it public although any polyfill is missing. Merely an example code
-for you. **hf**.
+### [**`prompt`**](https://github.com/kekse1/prompt/)
+Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
+the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
 ### [**`scripts`**](https://github.com/kekse1/scripts/)
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
