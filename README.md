@@ -49,7 +49,7 @@ My own **Radix Viewer**.
 
 First version with only **viewing** functionality. And it only supports radix/base **2** to **36**,
 the default within JavaScript. My own `radix.js` is already there, but not in this project.. gonna
-to copy it over here **l8rs**.
+copy it over here **l8rs**.
 
 ### [**`prompt`**](https://github.com/kekse1/prompt/)
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
