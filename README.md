@@ -13,11 +13,11 @@
 
 ## Overview
 
-* <a href="#repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my+Repositories" /></a>
-* <a href="#my-forks"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my+Forks" /></a>
-* <a href="#my-prompt"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my+Prompt" /></a>
-* <a href="#my-favicon"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my+Favicon" /></a>
-* <a href="#my-sneakers"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my+Sneakers" /></a>
+* <a href="#repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my%20Repositories" /></a>
+* <a href="#my-forks"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my%20Forks" /></a>
+* <a href="#my-prompt"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my%20Prompt" /></a>
+* <a href="#my-favicon"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my%20Favicon" /></a>
+* <a href="#my-sneakers"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&v=8&h=8&text=my%20Sneakers" /></a>
 
 ## Repositories
 Here are my own repositories, *sorted by priority*.. not all, but the most important ones.
@@ -144,8 +144,9 @@ but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js
 
 My own **quantum artificial general intelligence**.
 
-### [(All repositories)](https://github.com/kekse1?tab=repositories)
-https://github.com/kekse1?tab=repositories
+<a href="https://github.com/kekse1?tab=repositories">
+<img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=-4&size=24px&fg=20,90,150&font=OpenSans&ro&readonly&v=32&h=32&text=(all%20Repositories)" />
+</a>
 
 ## My Forks
 Some interesting repositories I wanted to mirror here.
