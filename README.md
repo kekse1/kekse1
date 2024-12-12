@@ -13,14 +13,11 @@
 
 ## Overview
 
-* <a href="#repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=0&size=21px&fg=20,90,150&font=OpenSans&ro&readonly&v=4&h=4&text=my%20Repositories" /></a>
-* <a href="#my-forks"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=0&size=21px&fg=20,90,150&font=OpenSans&ro&readonly&v=4&h=4&text=my%20Forks" /></a>
-* <a href="#my-prompt"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=0&size=21px&fg=20,90,150&font=OpenSans&ro&readonly&v=4&h=4&text=my%20Prompt" /></a>
-* <a href="#my-favicon"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=0&size=21px&fg=20,90,150&font=OpenSans&ro&readonly&v=4&h=4&text=my%20Favicon" /></a>
-* <a href="#my-sneakers"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=0&size=21px&fg=20,90,150&font=OpenSans&ro&readonly&v=4&h=4&text=my%20Sneakers" /></a>
-
-## Repositories
-Here are my own repositories, *sorted by priority*.. not all, but the most important ones.
+* my [**Repositories**](#repositories)
+* my [**Forks**](#my-forks)
+* my [**Prompt**](#my-prompt)
+* my [**FavIcon**](#my-favicon)
+* my [**Sneakers**](#my-sneakers)
 
 #### Index
 
@@ -170,7 +167,7 @@ Some interesting repositories I wanted to mirror here.
 <img src="img/prompt.png" alt="My Prompt" />
 </a>
 
-# My [Favicon](https://kekse.biz/)
+# My [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
