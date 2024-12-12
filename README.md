@@ -34,18 +34,21 @@ Here are my own repositories, *sorted by priority*.. not all, but the most impor
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
-* [**`resize.php`**](#resizephp)
 * [**`norbert`**](#norbert)
 * [(All Repositories)](#all-repositories)
 
-<img id="testing" src="https://kekse.biz/github.php?override=github:kekse1&draw&text=testing&angle=0&size=18px&fg=20,90,150&font=OpenSans&ro&readonly" />
+<a href="https://github.com/kekse1/smartwatch/">
+<img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=Smartwatch" />
+</a>
 
-### [**`smartwatch`**](https://github.com/kekse1/smartwatch/)
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
-### [**`dump`**](https://github.com/kekse1/dump/)
+<a href="https://github.com/kekse1/dump/">
+<img id="dump" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=Dump" />
+</a>
+
 My own **Radix Viewer**.
 
 > [!NOTE]
@@ -55,26 +58,44 @@ First version with only **viewing** functionality. And it only supports radix/ba
 the default within JavaScript. My own `radix.js` is already there, but not in this project.. gonna
 copy it over here **l8rs**.
 
-### [**`prompt`**](https://github.com/kekse1/prompt/)
+<a href="https://github.com/kekse1/prompt/">
+<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=Prompt" />
+</a>
+
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
-### [**`scripts`**](https://github.com/kekse1/scripts/)
+<a href="https://github.com/kekse1/scripts/">
+<img id="scripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=Scripts" />
+</a>
+
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
 some for inclusion via `source` or `.`). At the moment even one C/C++.. **the [`JavaScript`s](#javascript)
 moved to their [own repository](https://github.com/kekse1/javascript/) \[2024-09-24\]**;
 
-### [**`JavaScript`**](https://github.com/kekse1/javascript/)
+<a href="https://github.com/kekse1/javascript/">
+<img id="javascript" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=JavaScript" />
+</a>
+
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
 
-### [**`json.js`**](https://github.com/kekse1/json.js/)
+<a href="https://github.com/kekse1/json.js/">
+<img id="jsonjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=JSON.js" />
+</a>
+
 Just started this one, since I needed to insert comments in my
 [**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
 
-### [**`ansi.js`**](https://github.com/kekse1/ansi.js/)
+<a href="https://github.com/kekse1/ansi.js/">
+<img id="ansijs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=ANSI.js" />
+</a>
+
 Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escape Sequences**.
 
-### [**`noto-emoji-animation`**](https://github.com/kekse1/noto-emoji-animation/)
+<a href="https://github.com/kekse1/noto-emoji-animation/">
+<img id="noto-emoji-animation" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=noto-emoji-animation" />
+</a>
+
 Google got it's own animated icon set, available via web interface (and github, too):
 
 * [**Google**: The hub for everything animated emoji!](https://googlefonts.github.io/noto-emoji-animation/)
@@ -82,12 +103,18 @@ Google got it's own animated icon set, available via web interface (and github, 
 
 I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
 
-### [**`v4`**](https://github.com/kekse1/v4/)
+<a href="https://github.com/kekse1/v4/">
+<img id="v4" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=v4" />
+</a>
+
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
 Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
 Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projects) in my own overview? `^_^`
 
-### [**`count.php`**](https://github.com/kekse1/count.php/)
+<a href="https://github.com/kekse1/count.php/">
+<img id="countphp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=count.php" />
+</a>
+
 I really love it, so please give it a try! It even got a **CLI mode** (**C**onsole **L**ine **I**nterface)
 to manage all the values etc. (in your file system) and also to view the current states.
 
@@ -103,43 +130,17 @@ strings instead of the counted values etc., e.g. to hide some info from automati
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on my
 [**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
 
-### [**`getopt.js`**](https://github.com/kekse1/getopt.js/)
+<a href="https://github.com/kekse1/getopt.js/">
+<img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=getopt.js" />
+</a>
+
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
 
-### [**`resize.php`**](https://github.com/kekse1/resize.php/)
-Both for the **CLI** (**C**onsole **L**ine **I**nterface) and the **web browser** (so via **HTTPD**): a script
-to resize images. Only **down**-scaling allowed, since **up**-scaling won't make any sense, for obvious reasons..
+<a href="https://github.com/kekse1/norbert/">
+<img id="norbert" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=18px&fg=20,90,150&font=OpenSans&ro&readonly&text=Norbert" />
+</a>
 
-<!--
-### [**`github-markdown.php`**](https://github.com/kekse1/github-markdown.php/)
-A **PHP** script to convert **markdown to HTML** code, using the GitHub's API.
--->
-
-<!--
-### [**`FakeSSH`**](https://github.com/kekse1/FakeSSH/)
-This is my own **TODO**. My problem here: foreign people always try to hack my rooty, via Brute Force SSH attacks.
-After using another port, they still found it. Using [`fail2ban`](https://github.com/fail2ban/fail2ban/) for a while
-now helps .. a bit.
--->
-
-But now I'd like to create a fake SSHD using the default port. BUT there are some honeypots available; .. which I don't
-really need, seem too bloated for my purpose.. and there are more reasons for this, so now I wanted to create my own
-SSH server. Using [`Node.js`](https://nodejs.org/) (my all-time favorite! \^_\^);
-
-<!--
-### [**`v3`**](https://github.com/kekse1/v3/)
-Basically only a screenshot left of my previous **v3** web design (the **private** one).
-The code is deleted, since my newest [**v4**](#v4) is available right now.
--->
-
-<!--
-### [**`lib.js`**](https://github.com/kekse1/lib.js/)
-Only a memory of some older [**libjs.de**](https://libjs.de/) times.. the project ended some time ago, in it's
-place now the newest [**v4**](#v4), respectively it's **`lib`/** part.
--->
-
-### [**`norbert`**](https://github.com/kekse1/norbert/)
 My own **quantum artificial general intelligence**.
 
 ### [(All repositories)](https://github.com/kekse1?tab=repositories)
