@@ -1,7 +1,5 @@
 <img src="https://kekse.biz/github.php?draw&override=github:kekse1" />
 
-[TESTING](#testing)
-
 # Contact
 
 | Key                      | Value                                                                                                                                                                           |
