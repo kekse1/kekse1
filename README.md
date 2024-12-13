@@ -4,8 +4,8 @@
 
 | Key                      | Value                                                                                                                                                                           |
 | -----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 👋 **Website** (private) | <a href="https://kekse.biz/"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=38px&fg=110,60,10&font=OpenSans&ro&readonly&h=8px" /></a> |
-| 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=110,60,10&font=OpenSans&ro&readonly&h=8px" />                           |
+| 👋 **Website** (private) | <a href="https://kekse.biz/"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=38px&fg=120,70,10&font=OpenSans&ro&readonly&h=8px" /></a> |
+| 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=120,70,10&font=OpenSans&ro&readonly&h=8px" />                           |
 
 # **Kuchen**'s
 
