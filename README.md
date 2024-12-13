@@ -40,7 +40,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [(All Repositories)](#all-repositories)
 
 <a href="https://github.com/kekse1/smartwatch/">
-<img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=Smartwatch" />
+<img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=170,160,20&font=OpenSans&ro&readonly&v=48&h=32&text=Smartwatch" />
 </a>
 
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
