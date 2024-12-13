@@ -21,7 +21,7 @@
 Here are some of my own repositories, sorted by (kinda) priority.
 
 > [!IMPORTANT]
-> This is **not** <a href="#all-repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18&fg=80,30,120&font=OpenSans&ro&readonly&h=4&text=the%20complete%20list." /></a>
+> This is **not** <a href="#all-repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18&fg=100,30,150&font=OpenSans&ro&readonly&h=4&text=the%20complete%20list." /></a>
 
 #### Index
 
