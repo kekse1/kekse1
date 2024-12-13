@@ -40,7 +40,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [(All Repositories)](#all-repositories)
 
 <a href="https://github.com/kekse1/smartwatch/">
-<img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=32&text=Smartwatch" />
+<img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Smartwatch" />
 </a>
 
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
@@ -48,7 +48,7 @@ Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
 <a href="https://github.com/kekse1/dump/">
-<img id="dump" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=Dump" />
+<img id="dump" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Dump" />
 </a>
 
 My own **Radix Viewer**.
@@ -61,14 +61,14 @@ the default within JavaScript. My own `radix.js` is already there, but not in th
 copy it over here **l8rs**.
 
 <a href="https://github.com/kekse1/prompt/">
-<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=Prompt" />
+<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Prompt" />
 </a>
 
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
 <a href="https://github.com/kekse1/scripts/">
-<img id="scripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=Scripts" />
+<img id="scripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Scripts" />
 </a>
 
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts** (some for direct execution,
@@ -76,26 +76,26 @@ some for inclusion via `source` or `.`). At the moment even one C/C++.. **the [`
 moved to their [own repository](https://github.com/kekse1/javascript/) \[2024-09-24\]**;
 
 <a href="https://github.com/kekse1/javascript/">
-<img id="javascript" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=JavaScript" />
+<img id="javascript" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JavaScript" />
 </a>
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
 
 <a href="https://github.com/kekse1/json.js/">
-<img id="jsonjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=JSON.js" />
+<img id="jsonjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JSON.js" />
 </a>
 
 Just started this one, since I needed to insert comments in my
 [**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
 
 <a href="https://github.com/kekse1/ansi.js/">
-<img id="ansijs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=ANSI.js" />
+<img id="ansijs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=ANSI.js" />
 </a>
 
 Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escape Sequences**.
 
 <a href="https://github.com/kekse1/noto-emoji-animation/">
-<img id="noto-emoji-animation" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=noto-emoji-animation" />
+<img id="noto-emoji-animation" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=noto-emoji-animation" />
 </a>
 
 Google got it's own animated icon set, available via web interface (and github, too):
@@ -106,7 +106,7 @@ Google got it's own animated icon set, available via web interface (and github, 
 I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
 
 <a href="https://github.com/kekse1/v4/">
-<img id="v4" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=v4" />
+<img id="v4" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=v4" />
 </a>
 
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
@@ -114,7 +114,7 @@ Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
 Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projects) in my own overview? `^_^`
 
 <a href="https://github.com/kekse1/count.php/">
-<img id="countphp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=count.php" />
+<img id="countphp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=count.php" />
 </a>
 
 I really love it, so please give it a try! It even got a **CLI mode** (**C**onsole **L**ine **I**nterface)
@@ -133,20 +133,20 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 [**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
 
 <a href="https://github.com/kekse1/getopt.js/">
-<img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=getopt.js" />
+<img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=getopt.js" />
 </a>
 
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
 
 <a href="https://github.com/kekse1/norbert/">
-<img id="norbert" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=Norbert" />
+<img id="norbert" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Norbert" />
 </a>
 
 My own **quantum artificial general intelligence**.
 
 <a href="https://github.com/kekse1?tab=repositories">
-<img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=21px&fg=20,90,150&font=OpenSans&ro&readonly&v=48&h=32&text=(all%20Repositories)" />
+<img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=(all%20Repositories)" />
 </a>
 
 [The **complete repository list**](https://github.com/kekse1?tab=repositories) is also available here on [GitHub](https://github.com/kekse1/).
