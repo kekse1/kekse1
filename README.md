@@ -150,7 +150,7 @@ My own **quantum artificial general intelligence**.
 <img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=(all%20Repositories)" />
 </a>
 
-The [complete **repository** list](https://github.com/kekse1?tab=repositories) is also available here.
+And here is the [complete **repository** list](https://github.com/kekse1?tab=repositories).
 
 ## My Forks
 Some interesting repositories I wanted to mirror here.
