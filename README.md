@@ -29,7 +29,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`dump`**](#dump)
 * [**`prompt`**](#prompt)
 * [**`scripts`**](#scripts)
-* [**`javascript`**](#javascript)
+* [**`javascripts`**](#javascripts)
 * [**`json.js`**](#jsonjs)
 * [**`ansi.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -56,9 +56,7 @@ My own **Radix Viewer**.
 > [!NOTE]
 > When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
 
-First version with only **viewing** functionality. And it only supports radix/base **2** to **36**,
-the default within JavaScript. My own `radix.js` is already there, but not in this project.. gonna
-copy it over here **l8rs**.
+First version with only **viewing** functionality.
 
 <a href="https://github.com/kekse1/prompt/">
 <img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Prompt" />
@@ -73,11 +71,11 @@ the [`scripts`](#scripts) repository to it's own one*. Here's also the [example 
 
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts**. Some for direct execution,
 some for inclusion via `source` or `.` (also for your `/etc/profile.d/` directory). And one C/C++
-at the moment. ... the [`JavaScript`s](#javascript) moved to their own
-[`JavaScript` repository](https://github.com/kekse1/javascript/) \[2024-09-24\].
+at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
+[`JavaScripts` repository](https://github.com/kekse1/javascripts/) \[2024-09-24\].
 
-<a href="https://github.com/kekse1/javascript/">
-<img id="javascript" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JavaScript" />
+<a href="https://github.com/kekse1/javascripts/">
+<img id="javascripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JavaScripts" />
 </a>
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
