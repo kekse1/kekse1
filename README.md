@@ -36,7 +36,6 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
-* [**`norbert`**](#norbert)
 * [(All Repositories)](#all-repositories)
 
 <a href="https://github.com/kekse1/smartwatch/">
@@ -137,12 +136,6 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 
 My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
-
-<a href="https://github.com/kekse1/norbert/">
-<img id="norbert" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Norbert" />
-</a>
-
-My own **quantum artificial general intelligence**.
 
 <a href="https://github.com/kekse1?tab=repositories">
 <img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=(all%20Repositories)" />
