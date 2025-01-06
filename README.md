@@ -26,7 +26,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 #### Index
 
 * [**`smartwatch`**](#smartwatch)
-* [**`dump`**](#dump)
+* [**`dump.js`**](#dumpjs)
 * [**`prompt`**](#prompt)
 * [**`scripts`**](#scripts)
 * [**`javascripts`**](#javascripts)
@@ -46,8 +46,8 @@ Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
-<a href="https://github.com/kekse1/dump/">
-<img id="dump" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Dump" />
+<a href="https://github.com/kekse1/dump.js/">
+<img id="dump" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=dump.js" />
 </a>
 
 My own **Radix Viewer**.
