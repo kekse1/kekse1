@@ -170,5 +170,5 @@ Some interesting repositories I wanted to mirror here.
 # My [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
 
-# Contact
 <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=6&size=24px&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
+
