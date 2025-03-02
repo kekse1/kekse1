@@ -50,12 +50,15 @@ I decided to create my own one(s). So here's my [**`Biscuits Collection`**](http
 <img id="dumpjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=dump.js" />
 </a>
 
-My own **Radix Viewer**.
+My own **Radix Viewer**. First version with only **viewing** functionality.
 
 > [!NOTE]
 > When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
 
-First version with only **viewing** functionality.
+I really needed such a tool for myself to develop/debug my [Norbert](https://norbert.com.es/),
+and since I also needed other tools for this reason, I just implemented 'em here, too.
+
+The available utilties are explained in the README.md, too. These are (**atm**): [ **`count`**, **`rot13`** ];
 
 <a href="https://github.com/kekse1/prompt/">
 <img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Prompt" />
