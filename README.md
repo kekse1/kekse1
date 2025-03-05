@@ -30,6 +30,8 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`prompt`**](#prompt)
 * [**`scripts`**](#scripts)
 * [**`javascripts`**](#javascripts)
+* [**`Field`**](#field)
+* [**`getopt`**](#getopt)
 * [**`json.js`**](#jsonjs)
 * [**`ansi.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -81,6 +83,24 @@ at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 </a>
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
+
+<a href="https://github.com/kekse1/field/">
+<img id="field" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Field" />
+</a>
+
+This is the best[tm] way to manage multi-dimensional data.
+
+> [!NOTE]
+> My current plan is a JavaScript and a `bash` shell script implementation.
+
+<a href="https://github.com/kekse1/getopt/">
+<img id="getopt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=%60getopt%60" />
+</a>
+
+This will be my **own interpretation** of the well known `getopt` functionality.
+
+> [!NOTE]
+> My current plan is a JavaScript and a `bash` shell script implementation.
 
 <a href="https://github.com/kekse1/json.js/">
 <img id="jsonjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JSON.js" />
