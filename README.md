@@ -88,7 +88,7 @@ This started by moving all the JavaScripts from my [**`scripts`**](#scripts) rep
 <img id="field" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Field" />
 </a>
 
-This is the best[tm] way to manage multi-dimensional data.
+This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 
 > [!NOTE]
 > My current plan is a JavaScript and a `bash` shell script implementation.
