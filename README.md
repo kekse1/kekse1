@@ -31,7 +31,6 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`scripts`**](#scripts)
 * [**`javascripts`**](#javascripts)
 * [**`Field`**](#field)
-* [**`GetOpt`**](#getopt)
 * [**`json.js`**](#jsonjs)
 * [**`ansi.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -93,14 +92,6 @@ This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 > [!NOTE]
 > My current plan is a JavaScript and a `bash` shell script implementation.
 
-<!--<a href="https://github.com/kekse1/getopt/">
-<img id="getopt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=GetOpt" />
-</a>
-
-This will be my **own interpretation** of the well known `getopt` functionality.
-
-> [!NOTE]
-> My current plan is a JavaScript and a `bash` shell script implementation.-->
 
 <a href="https://github.com/kekse1/json.js/">
 <img id="jsonjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JSON.js" />
