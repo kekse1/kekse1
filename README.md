@@ -91,6 +91,7 @@ This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 
 > [!NOTE]
 > My current plan is a JavaScript and a `bash` shell script implementation.
+> **The JavaScript version is ready now**.
 
 
 <a href="https://github.com/kekse1/json.js/">
