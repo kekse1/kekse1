@@ -179,7 +179,7 @@ Some interesting repositories I wanted to mirror here.
 
 ## My [Prompt](https://kekse.biz/?github://kekse1/prompt/)
 <a href="https://github.com/kekse1/prompt/blob/git/sh/prompt.sh" target="_blank">
-<img src="img/prompt.png" alt="My Prompt" />
+<img src="img/example.png" alt="My Prompt" />
 </a>
 
 # My [FavIcon](https://kekse.biz/)
