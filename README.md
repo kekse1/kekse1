@@ -160,9 +160,7 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 <img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=getopt.js" />
 </a>
 
-My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact based on my [**v4** **lib**/](#v4),
-but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
-
+My own `getopt` interpretation, written in plain/vanilla JavaScript.
 
 
 <a href="https://github.com/kekse1/nproc.c/">
