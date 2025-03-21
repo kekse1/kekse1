@@ -37,7 +37,9 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
+* [**`nproc.c`**](#nprocc)
 * [(All Repositories)](#all-repositories)
+
 
 <a href="https://github.com/kekse1/smartwatch/">
 <img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Smartwatch" />
@@ -46,6 +48,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
+
 
 <a href="https://github.com/kekse1/dump.js/">
 <img id="dumpjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=dump.js" />
@@ -61,12 +64,14 @@ and since I also needed other tools for this reason, I just implemented 'em here
 
 The available utilties are explained in the README, too; these are (**atm**): [ **`count`**, **`rot13`** ];
 
+
 <a href="https://github.com/kekse1/prompt/">
 <img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Prompt" />
 </a>
 
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
+
 
 <a href="https://github.com/kekse1/scripts/">
 <img id="scripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Scripts" />
@@ -82,6 +87,7 @@ at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 </a>
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
+
 
 <a href="https://github.com/kekse1/field/">
 <img id="field" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Field" />
@@ -101,11 +107,13 @@ This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 Just started this one, since I needed to insert comments in my
 [**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
 
+
 <a href="https://github.com/kekse1/ansi.js/">
 <img id="ansijs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=ANSI.js" />
 </a>
 
 Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escape Sequences**.
+
 
 <a href="https://github.com/kekse1/noto-emoji-animation/">
 <img id="noto-emoji-animation" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=noto-emoji-animation" />
@@ -118,6 +126,7 @@ Google got it's own animated icon set, available via web interface (and github, 
 
 I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
 
+
 <a href="https://github.com/kekse1/v4/">
 <img id="v4" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=v4" />
 </a>
@@ -125,6 +134,7 @@ I hacked out a **mass downloader** here, plus an additional **PHP interface**, a
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
 Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
 Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projects) in my own overview? `^_^`
+
 
 <a href="https://github.com/kekse1/count.php/">
 <img id="countphp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=count.php" />
@@ -145,6 +155,7 @@ strings instead of the counted values etc., e.g. to hide some info from automati
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on my
 [**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
 
+
 <a href="https://github.com/kekse1/getopt.js/">
 <img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=getopt.js" />
 </a>
@@ -153,11 +164,21 @@ My own `getopt` interpretation, written in plain/vanilla JavaScript (in fact bas
 but you'll find a [**polyfill**](https://github.com/kekse1/getopt.js/blob/git/js/polyfill.js) there).
 
 
+
+<a href="https://github.com/kekse1/nproc.c/">
+<img id="nprocc" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=nproc.c" />
+</a>
+
+Tiny extension to the well-known coreutil: by setting the `NPROC` environment variable to an
+arbitrary integer that value will be shown instead of the real core/thread count of your CPU.
+
+
 <a href="https://github.com/kekse1?tab=repositories">
 <img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=(all%20Repositories)" />
 </a>
 
 And here is the [complete **repository** list](https://github.com/kekse1?tab=repositories).
+
 
 ## My Forks
 Some interesting repositories I wanted to mirror here.
@@ -173,6 +194,7 @@ Some interesting repositories I wanted to mirror here.
 * [**doom-ascii**](https://github.com/kekse1/doom-ascii/)
 * [**linuxpdf**](https://github.com/kekse1/linuxpdf/)
 * [**forkrun**](https://github.com/kekse1/forkrun/)
+* [**awesome-bash**](https://github.com/kekse1/awesome-bash/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archive)
 
 ## My [Prompt](https://kekse.biz/?github://kekse1/prompt/)
