@@ -96,8 +96,8 @@ This started by moving all the JavaScripts from my [**`scripts`**](#scripts) rep
 This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 
 > [!NOTE]
-> My current plan is a JavaScript and a `bash` shell script implementation.
-> **The JavaScript version is ready now**.
+> Available as **JavaScript** implementation, and there's also a
+> (much smaller) **Bash Shell** version available.
 
 
 <a href="https://github.com/kekse1/json.js/">
