@@ -124,7 +124,7 @@ Just started this one, since I needed to insert comments in my
 Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escape Sequences**.
 
 > [!TIP]
-> There's also the [Scripts/**ansi.sh**](https://github.com/kekse1/scripts/#ansish).
+> There's also the [scripts/**ansi.sh**](https://github.com/kekse1/scripts/#ansish).
 
 
 ## noto-emoji-animation
