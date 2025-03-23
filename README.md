@@ -1,5 +1,7 @@
 <img src="https://kekse.biz/github.php?draw&override=github:kekse1" />
 
+<br><br>
+
 # Contact
 
 | Key                      | Value                                                                                                                                                                           |
@@ -7,7 +9,11 @@
 | 👋 **Website** (private) | <a href="https://kekse.biz/"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=38px&fg=120,70,10&font=OpenSans&ro&readonly&h=94px" /></a> |
 | 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=150,20,90&font=OpenSans&ro&readonly&h=16px" />                           |
 
+<br><br><br>
+
 # **Kuchen**'s
+
+<br><br>
 
 # Overview
 
@@ -17,11 +23,15 @@
 * my [**FavIcon**](#my-favicon)
 * my [**Sneakers**](#my-sneakers)
 
+<br><br><br>
+
 # Repositories
 Here are some of my own repositories, sorted by (kinda) priority.
 
 > [!IMPORTANT]
 > This is **not** <a href="#all-repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18&fg=100,30,150&font=OpenSans&ro&readonly&h=4&text=the%20complete%20list." /></a>
+
+<br><br>
 
 ### Index
 
