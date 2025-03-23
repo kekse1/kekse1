@@ -196,6 +196,7 @@ arbitrary integer that value will be shown instead of the real core/thread count
 
 And here is the [complete **repository** list](https://github.com/kekse1?tab=repositories).
 
+<br><br><br><br>
 
 # My Forks
 Some interesting repositories I wanted to mirror here.
@@ -214,15 +215,21 @@ Some interesting repositories I wanted to mirror here.
 * [**awesome-bash**](https://github.com/kekse1/awesome-bash/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archive)
 
+<br><br><br><br>
+
 # My [Prompt](https://kekse.biz/?github://kekse1/prompt/)
 <a href="https://github.com/kekse1/prompt/blob/git/sh/prompt.sh" target="_blank">
 <img src="img/example.png" alt="My Prompt" />
 </a>
 
+<br><br><br><br>
+
 # My [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
+
+<br><br><br><br>
 
 # My [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
