@@ -40,10 +40,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`nproc.c`**](#nprocc)
 * [(All Repositories)](#all-repositories)
 
-
-
-
-
+<br><br><br><br>
 
 ## Smartwatch
 <a href="https://github.com/kekse1/smartwatch/">
