@@ -23,7 +23,7 @@
 * my [**FavIcon**](#my-favicon)
 * my [**Sneakers**](#my-sneakers)
 
-<br><br><br>
+<br><br>
 
 ## Repositories
 Here are some of my own repositories, sorted by (kinda) priority.
