@@ -48,7 +48,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
 * [**`nproc.c`**](#nprocc)
-* [(All Repositories)](#all-repositories)
+* [(all Repositories)](#all-repositories)
 
 <br><br><br><br>
 
@@ -212,7 +212,7 @@ arbitrary integer that value will be shown instead of the real core/thread count
 
 <br><br>
 
-### (All Repositories)
+### (all Repositories)
 <a href="https://github.com/kekse1?tab=repositories">
 <img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=(all%20Repositories)" />
 </a>
