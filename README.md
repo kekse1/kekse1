@@ -25,14 +25,14 @@ Here are some of my own repositories, sorted by (kinda) priority.
 
 ### Index
 
-* [**`smartwatch`**](#smartwatch)
-* [**`dump.js`**](#dumpjs)
-* [**`prompt`**](#prompt)
-* [**`scripts`**](#scripts)
-* [**`javascripts`**](#javascripts)
+* [**`Smartwatch`**](#smartwatch)
+* [**`Dump.js`**](#dumpjs)
+* [**`Prompt`**](#prompt)
+* [**`Scripts`**](#scripts)
+* [**`JavaScripts`**](#javascripts)
 * [**`Field`**](#field)
-* [**`json.js`**](#jsonjs)
-* [**`ansi.js`**](#ansijs)
+* [**`JSON.js`**](#jsonjs)
+* [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
