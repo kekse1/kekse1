@@ -61,6 +61,7 @@ Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
 
+<br><br>
 
 ### Field
 <a href="https://github.com/kekse1/field/">
@@ -73,6 +74,7 @@ This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 > Available as **JavaScript** implementation, and there's also a
 > (much smaller) **Bash Shell** version available.
 
+<br><br>
 
 ### Dump.js
 <a href="https://github.com/kekse1/dump.js/">
@@ -89,6 +91,7 @@ and since I also needed other tools for this reason, I just implemented 'em here
 
 The available utilties are explained in the README, too; these are (**atm**): [ **`count`**, **`rot13`** ];
 
+<br><br>
 
 ### Prompt
 <a href="https://github.com/kekse1/prompt/">
@@ -98,6 +101,7 @@ The available utilties are explained in the README, too; these are (**atm**): [ 
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
 the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
+<br><br>
 
 ### Scripts
 <a href="https://github.com/kekse1/scripts/">
@@ -109,6 +113,7 @@ some for inclusion via `source` or `.` (also for your `/etc/profile.d/` director
 at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 [`JavaScripts` repository](https://github.com/kekse1/javascripts/) \[2024-09-24\].
 
+<br><br>
 
 ### JavaScripts
 <a href="https://github.com/kekse1/javascripts/">
@@ -117,6 +122,7 @@ at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
 
+<br><br>
 
 ### JSON.js
 <a href="https://github.com/kekse1/json.js/">
@@ -126,6 +132,7 @@ This started by moving all the JavaScripts from my [**`scripts`**](#scripts) rep
 Just started this one, since I needed to insert comments in my
 [**JSON configuration**](https://github.com/kekse1/scripts/#configjs).
 
+<br><br>
 
 ### ANSI.js
 <a href="https://github.com/kekse1/ansi.js/">
@@ -137,6 +144,7 @@ Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escap
 > [!TIP]
 > There's also the [scripts/**ansi.sh**](https://github.com/kekse1/scripts/#ansish).
 
+<br><br>
 
 ### noto-emoji-animation
 <a href="https://github.com/kekse1/noto-emoji-animation/">
@@ -150,6 +158,7 @@ Google got it's own animated icon set, available via web interface (and github, 
 
 I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
 
+<br><br>
 
 ### v4
 <a href="https://github.com/kekse1/v4/">
@@ -160,6 +169,7 @@ This is the current API documentation (etc.) for my [**private** website project
 Maybe you'd also like to see [the **source code**](https://kekse.biz/?~sources)?
 Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projects) in my own overview? `^_^`
 
+<br><br>
 
 ### count.php
 <a href="https://github.com/kekse1/count.php/">
@@ -181,6 +191,7 @@ strings instead of the counted values etc., e.g. to hide some info from automati
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on my
 [**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
 
+<br><br>
 
 ### getopt.js
 <a href="https://github.com/kekse1/getopt.js/">
@@ -189,6 +200,7 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 
 My own `getopt` interpretation, written in plain/vanilla JavaScript.
 
+<br><br>
 
 ### nproc.c
 <a href="https://github.com/kekse1/nproc.c/">
@@ -198,6 +210,7 @@ My own `getopt` interpretation, written in plain/vanilla JavaScript.
 Tiny extension to the well-known coreutil: by setting the `NPROC` environment variable to an
 arbitrary integer that value will be shown instead of the real core/thread count of your CPU.
 
+<br><br>
 
 ### (All Repositories)
 <a href="https://github.com/kekse1?tab=repositories">
