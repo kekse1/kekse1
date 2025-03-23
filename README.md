@@ -26,11 +26,11 @@ Here are some of my own repositories, sorted by (kinda) priority.
 ### Index
 
 * [**`Smartwatch`**](#smartwatch)
+* [**`Field`**](#field)
 * [**`Dump.js`**](#dumpjs)
 * [**`Prompt`**](#prompt)
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
-* [**`Field`**](#field)
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -49,6 +49,18 @@ Here are some of my own repositories, sorted by (kinda) priority.
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
 Because I wanted a special watch face design (I really love 24h analog),
 I decided to create my own one(s). So here's my [**`Biscuits Collection`**](https://biscuits.casa/)!
+
+
+##### Field
+<a href="https://github.com/kekse1/field/">
+<img id="field" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Field" />
+</a>
+
+This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
+
+> [!NOTE]
+> Available as **JavaScript** implementation, and there's also a
+> (much smaller) **Bash Shell** version available.
 
 
 ## Dump.js
@@ -93,18 +105,6 @@ at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 </a>
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
-
-
-##### Field
-<a href="https://github.com/kekse1/field/">
-<img id="field" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Field" />
-</a>
-
-This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
-
-> [!NOTE]
-> Available as **JavaScript** implementation, and there's also a
-> (much smaller) **Bash Shell** version available.
 
 
 ## JSON.js
