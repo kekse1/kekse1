@@ -89,7 +89,7 @@ My own **Radix Viewer**. First version with only **viewing** functionality.
 I really needed such a tool for myself to develop/debug my [Norbert](https://norbert.com.es/),
 and since I also needed other tools for this reason, I just implemented 'em here, too.
 
-The available utilties are explained in the README, too; these are (**atm**): [ **`count`**, **`sum`**, **`product`**, **`rot13`** ];
+The available utilties are explained in the README, too; these are (**atm**): [ **`count`**, **`sum`**, **`rot13`** ];
 
 <br><br>
 
