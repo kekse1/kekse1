@@ -22,6 +22,7 @@
 * my [**Prompt**](#my-prompt)
 * my [**FavIcon**](#my-favicon)
 * my [**Sneakers**](#my-sneakers)
+* my [**Links**](#my-links)
 
 <br><br>
 
@@ -257,3 +258,12 @@ Some interesting repositories I wanted to mirror here.
 ## My [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
 
+<br><br><br><br>
+
+## My [Links](https://kekse.biz/?~links)
+* [**`kekse.biz`**](https://kekse.biz/)
+* [**`biscuits.casa`**](https://biscuits.casa/)
+* [**`leverkusen.li`**](https://leverkusen.li/)
+* [**`256.zone`**](https://256.zone/)
+* [**`facebook.com/geleeschaumgummi/`**](https://facebook.com/geleeschaumgummi/)
+* [**`linkedin.com/in/quantenmechaniker/`**](https://linkedin.com/in/quantenmechaniker/)
