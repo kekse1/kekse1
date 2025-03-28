@@ -21,8 +21,8 @@
 * my [**Forks**](#my-forks)
 * my [**Prompt**](#my-prompt)
 * my [**FavIcon**](#my-favicon)
-* my [**Sneakers**](#my-sneakers)
 * my [**Links**](#my-links)
+* my [**Sneakers**](#my-sneakers)
 
 <br><br>
 
@@ -253,10 +253,6 @@ Some interesting repositories I wanted to mirror here.
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
 
-<br><br><br><br>
-
-## My [Sneakers](https://etnies.com/)
-<img src="img/sneakers.png" alt="Etnies" />
 
 <br><br><br><br>
 
@@ -268,4 +264,9 @@ Some interesting repositories I wanted to mirror here.
 * [**`facebook.com/geleeschaumgummi/`**](https://facebook.com/geleeschaumgummi/)
 * [**`linkedin.com/in/quantenmechaniker/`**](https://linkedin.com/in/quantenmechaniker/)
 * [**`facer.io/u/kekse/`**](https://facer.io/u/kekse/)
+
+<br><br><br><br>
+
+## My [Sneakers](https://etnies.com/)
+<img src="img/sneakers.png" alt="Etnies" />
 
