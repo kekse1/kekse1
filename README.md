@@ -1,5 +1,11 @@
 <img src="https://kekse.biz/github.php?draw&override=github:kekse1" />
 
+> [!NOTE]
+> **At the moment** the counters and my text-images (drawn via [`count.php`](https://github.com/kekse1/count.php/))
+> are not available.. maybe some problems w/ [**CORS**](https://developer.mozilla.org/de/docs/Web/HTTP/Guides/CORS),
+> after I upgraded to the [`nginx`](https://nginx.org/) HTTPD. ... so GitHub makes problems here. **Maybe** I'm
+> going to fix it these days. JFYI.
+
 <br><br>
 
 # **Kuchen**'s
