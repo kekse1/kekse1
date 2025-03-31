@@ -1,4 +1,4 @@
-<img src="https://www.kekse.biz/github.php?draw&override=github:kekse1" />
+<img src="https://kekse.biz/github.php?draw&override=github:kekse1" />
 
 <br><br>
 
