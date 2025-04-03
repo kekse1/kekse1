@@ -55,7 +55,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 
 ### Smartwatch
 <a href="https://github.com/kekse1/smartwatch/">
-<img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Smartwatch" />
+<img id="smartwatch" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Smartwatch" />
 </a>
 
 Since my bday 2023 I own a [Xiaomi Watch 2 Pro](https://kekse.biz/?~hardware).
@@ -66,7 +66,7 @@ I decided to create my own one(s). So here's my [**`Biscuits Collection`**](http
 
 ### Field
 <a href="https://github.com/kekse1/field/">
-<img id="field" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Field" />
+<img id="field" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Field" />
 </a>
 
 This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
@@ -79,7 +79,7 @@ This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 
 ### Dump.js
 <a href="https://github.com/kekse1/dump.js/">
-<img id="dumpjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Dump.js" />
+<img id="dumpjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Dump.js" />
 </a>
 
 My own **Radix Viewer**. First version with only **viewing** functionality.
@@ -96,7 +96,7 @@ The available utilties are explained in the README, too; these are (**atm**): [ 
 
 ### Prompt
 <a href="https://github.com/kekse1/prompt/">
-<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Prompt" />
+<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Prompt" />
 </a>
 
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
@@ -106,7 +106,7 @@ the [`scripts`](#scripts) repository to it's own one*. Here's also the [example 
 
 ### Scripts
 <a href="https://github.com/kekse1/scripts/">
-<img id="scripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Scripts" />
+<img id="scripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Scripts" />
 </a>
 
 Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts**. Some for direct execution,
@@ -118,7 +118,7 @@ at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 
 ### JavaScripts
 <a href="https://github.com/kekse1/javascripts/">
-<img id="javascripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JavaScripts" />
+<img id="javascripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JavaScripts" />
 </a>
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
@@ -127,7 +127,7 @@ This started by moving all the JavaScripts from my [**`scripts`**](#scripts) rep
 
 ### JSON.js
 <a href="https://github.com/kekse1/json.js/">
-<img id="jsonjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JSON.js" />
+<img id="jsonjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JSON.js" />
 </a>
 
 Just started this one, since I needed to insert comments in my
@@ -137,7 +137,7 @@ Just started this one, since I needed to insert comments in my
 
 ### ANSI.js
 <a href="https://github.com/kekse1/ansi.js/">
-<img id="ansijs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=ANSI.js" />
+<img id="ansijs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=ANSI.js" />
 </a>
 
 Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escape Sequences**.
@@ -149,7 +149,7 @@ Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escap
 
 ### noto-emoji-animation
 <a href="https://github.com/kekse1/noto-emoji-animation/">
-<img id="noto-emoji-animation" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=noto-emoji-animation" />
+<img id="noto-emoji-animation" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=noto-emoji-animation" />
 </a>
 
 Google got it's own animated icon set, available via web interface (and github, too):
@@ -163,7 +163,7 @@ I hacked out a **mass downloader** here, plus an additional **PHP interface**, a
 
 ### v4
 <a href="https://github.com/kekse1/v4/">
-<img id="v4" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=v4" />
+<img id="v4" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=v4" />
 </a>
 
 This is the current API documentation (etc.) for my [**private** website project](https://kekse.biz/).
@@ -174,7 +174,7 @@ Or maybe you want to see [all **my github projects**](https://kekse.biz/?~projec
 
 ### count.php
 <a href="https://github.com/kekse1/count.php/">
-<img id="countphp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=count.php" />
+<img id="countphp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=count.php" />
 </a>
 
 I really love it, so please give it a try! It even got a **CLI mode** (**C**onsole **L**ine **I**nterface)
@@ -196,7 +196,7 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 
 ### getopt.js
 <a href="https://github.com/kekse1/getopt.js/">
-<img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=getopt.js" />
+<img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=getopt.js" />
 </a>
 
 My own `getopt` interpretation, written in plain/vanilla JavaScript.
@@ -205,7 +205,7 @@ My own `getopt` interpretation, written in plain/vanilla JavaScript.
 
 ### nproc.c
 <a href="https://github.com/kekse1/nproc.c/">
-<img id="nprocc" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=28&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=nproc.c" />
+<img id="nprocc" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=nproc.c" />
 </a>
 
 Tiny extension to the well-known coreutil: by setting the `NPROC` environment variable to an
@@ -215,7 +215,7 @@ arbitrary integer that value will be shown instead of the real core/thread count
 
 ### (all Repositories)
 <a href="https://github.com/kekse1?tab=repositories">
-<img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=24px&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=(all%20Repositories)" />
+<img id="all-repositories" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=52px&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=(all%20Repositories)" />
 </a>
 
 And here is the [complete **repository** list](https://github.com/kekse1?tab=repositories).
