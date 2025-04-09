@@ -42,6 +42,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`Prompt`**](#prompt)
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
+* [**`Erase.js`**](#erasejs)
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -113,6 +114,15 @@ Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts**. Some fo
 some for inclusion via `source` or `.` (also for your `/etc/profile.d/` directory). And one C/C++
 at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 [`JavaScripts` repository](https://github.com/kekse1/javascripts/) \[2024-09-24\].
+
+<br><br>
+
+### Erase.js
+<a href="https://github.com/kekse1/erase.js/">
+<img id="erasejs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Erase.js" />
+</a>
+
+**Currently under development**!1
 
 <br><br>
 
