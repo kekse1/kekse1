@@ -122,7 +122,11 @@ at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 <img id="erasejs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Erase.js" />
 </a>
 
-**Currently under development**!1
+The plan is to wipe all the [**Termux Linux**](https://termux.dev/) files
+on my smartphone (more/less) securely.. by traversing a directory and
+overwriting all files with exactly the same amount of `\0` or random bytes.
+
+Without jailbreak there's no `dd` available, which is my regular tool for this.
 
 <br><br>
 
