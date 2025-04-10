@@ -43,6 +43,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
 * [**`Erase.js`**](#erasejs)
+* [**`PHP`**](#php)
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -117,6 +118,15 @@ at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
 
 <br><br>
 
+### JavaScripts
+<a href="https://github.com/kekse1/javascripts/">
+<img id="javascripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JavaScripts" />
+</a>
+
+This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
+
+<br><br>
+
 ### Erase.js
 <a href="https://github.com/kekse1/erase.js/">
 <img id="erasejs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Erase.js" />
@@ -130,12 +140,17 @@ Without jailbreak there's no `dd` available, which is my regular tool for this.
 
 <br><br>
 
-### JavaScripts
-<a href="https://github.com/kekse1/javascripts/">
-<img id="javascripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=JavaScripts" />
+### PHP
+<a href="https://github.com/kekse1/php/">
+<img id="php" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=PHP" />
 </a>
 
-This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
+Many, many years ago I was a Moderator (and l8rs even a "Technical Administrator")
+in the PHP area of the "Buschhacker" forum (doesn't exist any longer today).
+Maybe I didn't forget *that* much about PHP!?
+
+Since I just wrote a `.php` script for [my **website**](https://kekse.biz/)
+and I hadn't a repository for it, I created this new one. That's the reason.
 
 <br><br>
 
