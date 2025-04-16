@@ -111,10 +111,12 @@ the [`scripts`](#scripts) repository to it's own one*. Here's also the [example 
 <img id="scripts" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Scripts" />
 </a>
 
-Mostly [**bash** shell](https://www.gnu.org/software/bash/) **scripts**. Some for direct execution,
-some for inclusion via `source` or `.` (also for your `/etc/profile.d/` directory). And one C/C++
-at the moment. ... the [`JavaScripts`](#javascripts) moved to their own
-[`JavaScripts` repository](https://github.com/kekse1/javascripts/) \[2024-09-24\].
+Currently(?) **only** [**bash** shell](https://www.gnu.org/software/bash/) **scripts**.
+
+Some are for direct execution, some for inclusion via `source` or `.` (likely in the `/etc/profile.d/`
+directory). The [`JavaScripts`](#javascripts) moved to their own
+[`JavaScripts` repository](https://github.com/kekse1/javascripts/) \[2024-09-24\], and
+the `nproc.c` (ANSI C) also moved to it's own [`nproc.c`](#nprocc).
 
 <br><br>
 
