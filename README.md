@@ -176,7 +176,7 @@ Google got it's own animated icon set, available via web interface (and github, 
 I hacked out a **mass downloader** (JavaScript/[Node.js](https://nodejs.org/)); plus an additional **TAG-LOOKUP interface**
 (PHP script, but also usable via Shell), and more.
 
-See also this [example screenshot](https://github.com/kekse1/noto-emoji-animation/blob/git/img/shell-tag-lookup.png) of the
+See also this [example screenshot](https://github.com/kekse1/noto-emoji-animation/blob/git/img/shell.png) of the
 **tag lookup** interface, here used in the **shell**.
 
 <br><br>
