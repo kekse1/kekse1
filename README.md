@@ -173,7 +173,8 @@ Google got it's own animated icon set, available via web interface (and github, 
 * [**Google**: The hub for everything animated emoji!](https://googlefonts.github.io/noto-emoji-animation/)
 * [**Google**: Github repository](https://github.com/googlefonts/noto-emoji)
 
-I hacked out a **mass downloader** here, plus an additional **PHP interface**, and even more.
+I hacked out a **mass downloader** (JavaScript/Node.js) here, plus an additional **TAG-LOOKUP interface**
+(PHP script, but also via Shell), and more.
 
 <br><br>
 
