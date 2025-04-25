@@ -137,7 +137,8 @@ The plan is to wipe all the [**Termux Linux**](https://termux.dev/) files
 on my smartphone (more/less) securely.. by traversing a directory and
 overwriting all files with exactly the same amount of `\0` or random bytes.
 
-Without jailbreak there's no `dd` available, which is my regular tool for this.
+Without jailbreak one can't `dd` the whole disk drive(s).
+So I needed to do this directly on file level..
 
 <br><br>
 
