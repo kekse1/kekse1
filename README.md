@@ -50,6 +50,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
 * [**`nproc.c`**](#nprocc)
+* [**`PHP`**](#php)
 * [(all Repositories)](#all-repositories)
 
 <br><br><br><br>
@@ -231,6 +232,17 @@ My own `getopt` interpretation, written in plain/vanilla JavaScript.
 
 Tiny extension to the well-known coreutil: by setting the `NPROC` environment variable to an
 arbitrary integer that value will be shown instead of the real core/thread count of your CPU.
+
+<br><br>
+
+### PHP
+<a href="https://github.com/kekse1/php/">
+<img id="php" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=PHP" />
+</a>
+
+Many, many years ago I was a Moderator (and l8rs even a "Technical Administrator")
+in the PHP area of the "Buschhacker" forum (doesn't exist any longer today).
+Maybe I didn't forget *that* much about PHP!?
 
 <br><br>
 
