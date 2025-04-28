@@ -240,9 +240,8 @@ arbitrary integer that value will be shown instead of the real core/thread count
 <img id="php" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=PHP" />
 </a>
 
-Many, many years ago I was a Moderator (and l8rs even a "Technical Administrator")
-in the PHP area of the "Buschhacker" forum (doesn't exist any longer today).
-Maybe I didn't forget *that* much about PHP!?
+Many, many years ago I was a Moderator in the PHP area of the "Buschhacker" forum,
+l8rs even a "Technical Administrator". So maybe I didn't forget *that* much about PHP!?
 
 <br><br>
 
