@@ -283,6 +283,7 @@ Some interesting repositories I wanted to mirror here.
 * [**linuxpdf**](https://github.com/kekse1/linuxpdf/)
 * [**forkrun**](https://github.com/kekse1/forkrun/)
 * [**awesome-bash**](https://github.com/kekse1/awesome-bash/)
+* [**CL4R1T4S**](https://github.com/kekse1/CL4R1T4S/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archive)
 
 <br><br><br><br>
