@@ -52,7 +52,6 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`getopt.js`**](#getoptjs)
 * [**`nproc.c`**](#nprocc)
 * [**`PHP`**](#php)
-* [**`Terminal`**](#terminal)
 * [(all Repositories)](#all-repositories)
 
 <br><br><br><br>
@@ -260,7 +259,7 @@ l8rs even a "Technical Administrator". So maybe I didn't forget *that* much abou
 
 <br><br>
 
-### Terminal
+<!--### Terminal
 <a href="https://github.com/kekse1/terminal.js/">
 <img id="terminal" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Terminal" />
 </a>
@@ -268,7 +267,7 @@ l8rs even a "Technical Administrator". So maybe I didn't forget *that* much abou
 At the moment I'm implementing it, from time to time.. and I'm testing it on this
 [**`kekse.biz`** terminal test page](https://kekse.biz/?~terminal).
 
-<br><br>
+<br><br>-->
 
 ### (all Repositories)
 <a href="https://github.com/kekse1?tab=repositories">
