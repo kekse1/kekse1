@@ -95,7 +95,7 @@ and since I also needed other tools for this reason, I just implemented 'em here
 
 The available utilties are explained in the README, too; they're some extensions to this cool tool,
 and I implemented them when there was the need for \[speed\]: ...
-[ **`count`**, **`sum`**, **`rot13`**, **`print`**, **`xml`** ];
+[ **`count`**, **`sum`**, **`rot13`**, **`print`**, **`xml`**, **`ansi`** ];
 
 <br><br>
 
