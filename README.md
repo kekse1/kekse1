@@ -297,6 +297,9 @@ Some interesting repositories I wanted to mirror here.
 * [**awesome-bash**](https://github.com/kekse1/awesome-bash/)
 * [**CL4R1T4S**](https://github.com/kekse1/CL4R1T4S/)
 * [**system_prompts_leaks**](https://github.com/kekse1/system_prompts_leaks)
+* [**term.everything**](https://github.com/kekse1/term.everything/)
+* [**chafa**](https://github.com/kekse1/chafa/)
+* [**chafa-wasm**](https://github.com/kekse1/chafa-wasm/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
