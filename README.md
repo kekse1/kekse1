@@ -50,7 +50,6 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
-* [**`unwiki`**](#unwiki)
 * [**`nproc.c`**](#nprocc)
 * [**`PHP`**](#php)
 * [(all Repositories)](#all-repositories)
@@ -239,16 +238,6 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 </a>
 
 My own `getopt` interpretation, written in plain/vanilla JavaScript.
-
-<br><br>
-
-### unwiki
-<a href="https://github.com/kekse1/unwiki/">
-<img id="unwiki" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=unwiki" />
-</a>
-
-Converting [Wikimedia **Dumps**](https://dumps.wikimedia.org/)
-(actually **`.xml`**) to plain text files.
 
 <br><br>
 
