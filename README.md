@@ -313,7 +313,6 @@ Some interesting repositories I wanted to mirror here.
 * [**chafa-wasm**](https://github.com/kekse1/chafa-wasm/)
 * [**spacegamex64**](https://github.com/kekse1/spacegamex64/)
 * [**Singularity**](https://github.com/kekse1/Singularity/)
-* [**BASIC-M6502**](https://github.com/kekse1/BASIC-M6502/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
