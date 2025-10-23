@@ -50,7 +50,6 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`getopt.js`**](#getoptjs)
-* [**`unwiki`**](#unwiki)
 * [**`nproc.c`**](#nprocc)
 * [**`PHP`**](#php)
 * [(all Repositories)](#all-repositories)
@@ -242,16 +241,6 @@ My own `getopt` interpretation, written in plain/vanilla JavaScript.
 
 <br><br>
 
-### unwiki
-<a href="https://github.com/kekse1/unwiki/">
-<img id="unwiki" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=unwiki" />
-</a>
-
-Converting [Wikimedia **Dumps**](https://dumps.wikimedia.org/)
-(actually **`.xml`**) to plain text files.
-
-<br><br>
-
 ### nproc.c
 <a href="https://github.com/kekse1/nproc.c/">
 <img id="nprocc" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=nproc.c" />
@@ -271,16 +260,6 @@ Many, many years ago I was a Moderator in the PHP area of the "Buschhacker" foru
 l8rs even a "Technical Administrator". So maybe I didn't forget *that* much about PHP!?
 
 <br><br>
-
-<!--### Terminal
-<a href="https://github.com/kekse1/terminal.js/">
-<img id="terminal" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Terminal" />
-</a>
-
-At the moment I'm implementing it, from time to time.. and I'm testing it on this
-[**`kekse.biz`** terminal test page](https://kekse.biz/?~terminal).
-
-<br><br>-->
 
 ### (all Repositories)
 <a href="https://github.com/kekse1?tab=repositories">
