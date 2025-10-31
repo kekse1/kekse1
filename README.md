@@ -292,6 +292,10 @@ Some interesting repositories I wanted to mirror here.
 * [**chafa-wasm**](https://github.com/kekse1/chafa-wasm/)
 * [**spacegamex64**](https://github.com/kekse1/spacegamex64/)
 * [**Singularity**](https://github.com/kekse1/Singularity/)
+* [**lychee**](https://github.com/kekse1/lychee/)
+* [**craftgpt**](https://github.com/kekse1/craftgpt/)
+* [**phoenix**](https://github.com/kekse1/phoenix/)
+* [**raytracing.github.io**](https://github.com/kekse1/raytracing.github.io/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
