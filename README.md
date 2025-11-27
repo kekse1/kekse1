@@ -46,7 +46,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
-* [**`radix.js`**](#radixjs)
+* [**`radix`**](#radix)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`unwiki`**](#unwiki)
@@ -188,15 +188,12 @@ See also this [example screenshot](https://github.com/kekse1/noto-emoji-animatio
 
 <br><br>
 
-### radix.js
-<a href="https://github.com/kekse1/radix.js/">
-<img id="radixjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=radix.js" />
+### radix
+<a href="https://github.com/kekse1/radix/">
+<img id="radix" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=radix" />
 </a>
 
-This is currently **under development**.
-
-The code base is already there (it's a bit older), but I'm going to adapt/prepare it to run 'as-is',
-because currently I'm using some own extensions in it.
+Radix/base/unit/.. conversions. **JavaScript** code.
 
 <br><br>
 
