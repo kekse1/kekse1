@@ -190,7 +190,7 @@ See also this [example screenshot](https://github.com/kekse1/noto-emoji-animatio
 
 ### Radix
 <a href="https://github.com/kekse1/radix/">
-<img id="radix" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=radix" />
+<img id="radix" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Radix" />
 </a>
 
 Radix/base/unit/.. conversions. **JavaScript** code.
