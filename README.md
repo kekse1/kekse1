@@ -46,7 +46,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
-* [**`radix`**](#radix)
+* [**`Radix`**](#radix)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`unwiki`**](#unwiki)
@@ -188,7 +188,7 @@ See also this [example screenshot](https://github.com/kekse1/noto-emoji-animatio
 
 <br><br>
 
-### radix
+### Radix
 <a href="https://github.com/kekse1/radix/">
 <img id="radix" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=radix" />
 </a>
