@@ -314,6 +314,7 @@ Some interesting repositories I wanted to mirror here.
 * [**craftgpt**](https://github.com/kekse1/craftgpt/)
 * [**phoenix**](https://github.com/kekse1/phoenix/)
 * [**raytracing.github.io**](https://github.com/kekse1/raytracing.github.io/)
+* [**remove-refusals-with-transformers**](https://github.com/kekse1/remove-refusals-with-transformers/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
