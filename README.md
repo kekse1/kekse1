@@ -52,6 +52,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`unwiki`**](#unwiki)
 * [**`getopt.js`**](#getoptjs)
 * [**`nproc.c`**](#nprocc)
+* [**`levenshtein.js`**](#levenshteinjs)
 * [**`PHP`**](#php)
 * [(all Repositories)](#all-repositories)
 
@@ -255,6 +256,16 @@ Converts [Wikimedia Dumps](https://dumps.wikimedia.org/) to big **`test/plain`**
 
 Tiny extension to the well-known coreutil: by setting the `NPROC` environment variable to an
 arbitrary integer that value will be shown instead of the real core/thread count of your CPU.
+
+<br><br>
+
+### Levenshtein
+<a href="https://github.com/kekse1/levenshtein.js/">
+<img id="levenshteinjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=levenshtein.js" />
+</a>
+
+This algorithm calculates the 'distance' between words. It's often used to give a user
+possible alternative words/commands/.. etc. if one typed in a 'wrong' command, e.g.
 
 <br><br>
 
