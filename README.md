@@ -322,6 +322,7 @@ Some interesting repositories I wanted to mirror here.
 
 ## My Prompt
 See also my [**Prompt**](https://github.com/kekse1/prompt/) repository.
+Click on the image to enlarge it.
 
 <a href="img/prompt.jpg">
     <img src="img/prompt.png" alt="My prompt" />
