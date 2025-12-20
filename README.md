@@ -332,7 +332,7 @@ Some interesting repositories I wanted to mirror here.
 <br><br><br><br>
 
 ## My Prompt
-See also my [**Prompt**](https://github.com/kekse1/prompt/) repository.
+See also my [**Prompt**](#prompt) repository.
 Click on the image to enlarge it.
 
 <a href="img/prompt.jpg">
