@@ -65,7 +65,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 </a>
 
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/),
-using the `$PROMPT_COMMAND` dynamics.
+using the `$PROMPT_COMMAND` dynamics. Also see [below](#my-prompt).
 
 <br><br>
 
