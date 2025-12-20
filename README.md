@@ -36,10 +36,10 @@ Here are some of my own repositories, sorted by (kinda) priority.
 
 #### Index
 
+* [**`$PS1`**](#ps1)
 * [**`Smartwatch`**](#smartwatch)
 * [**`Field`**](#field)
 * [**`Dump.js`**](#dumpjs)
-* [**`Prompt`**](#prompt)
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
 * [**`Erase.js`**](#erasejs)
@@ -58,6 +58,17 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [(all Repositories)](#all-repositories)
 
 <br><br><br><br>
+
+### `$PS1`
+<a href="https://github.com/kekse1/prompt/">
+<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=%20%24PS1%20" />
+</a>
+
+Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/),
+using the `$PROMPT_COMMAND` dynamics.
+
+<br><br>
+
 
 ### Smartwatch
 <a href="https://github.com/kekse1/smartwatch/">
@@ -99,16 +110,6 @@ and since I also needed other tools for this reason, I just implemented 'em here
 The available utilties are explained in the README, too; they're some extensions to this cool tool,
 and I implemented them when there was the need for \[speed\]: ...
 [ **`count`**, **`sum`**, **`rot13`**, **`print`**, **`xml`**, **`ansi`** ];
-
-<br><br>
-
-### Prompt
-<a href="https://github.com/kekse1/prompt/">
-<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Prompt" />
-</a>
-
-Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/). *Just moved it from
-the [`scripts`](#scripts) repository to it's own one*. Here's also the [example screenshot](#my-prompt).
 
 <br><br>
 
