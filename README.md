@@ -61,7 +61,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 
 ### `$PS1`
 <a href="https://github.com/kekse1/prompt/">
-<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=%20%24PS1%20" />
+<img id="prompt" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=%24PS1" />
 </a>
 
 Here's my notorious [**`$PS1`** prompt](https://github.com/kekse1/prompt/),
