@@ -300,7 +300,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 <br><br><br><br>
 
 ## My Forks
-Some interesting repositories I wanted to mirror here.
+Some interesting repositories I wanted to mirror here (that's the reason I fork).
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -327,6 +327,7 @@ Some interesting repositories I wanted to mirror here.
 * [**raytracing.github.io**](https://github.com/kekse1/raytracing.github.io/)
 * [**remove-refusals-with-transformers**](https://github.com/kekse1/remove-refusals-with-transformers/)
 * [**hk**](https://github.com/kekse1/hk/)
+* [**quickjs**](https://github.com/kekse1/quickjs/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
