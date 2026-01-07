@@ -334,12 +334,7 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 <br><br><br><br>
 
 ## My Prompt
-See also my [**Prompt**](#prompt) repository.
-Click on the image to enlarge it.
-
-<a href="img/prompt.jpg">
-    <img src="img/prompt.png" alt="My prompt" />
-</a>
+See also my [**Prompt**](#prompt) repository! ;-)
 
 <br><br><br><br>
 
