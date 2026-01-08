@@ -334,7 +334,9 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 <br><br><br><br>
 
 ## My Prompt
-See also my [**Prompt**](#prompt) repository! ;-)
+See also my [**Prompt**](#prompt) repository.
+
+![xterm-256color](./img/prompt.png)
 
 <br><br><br><br>
 
