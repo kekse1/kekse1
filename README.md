@@ -59,6 +59,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`getopt.js`**](#getoptjs)
 * [**`nproc.c`**](#nprocc)
 * [**`levenshtein.js`**](#levenshteinjs)
+* [**`PointerCaptureStack`**](#pointercapturestack)
 * [**`PHP`**](#php)
 * [(all Repositories)](#all-repositories)
 
@@ -282,6 +283,15 @@ arbitrary integer that value will be shown instead of the real core/thread count
 
 This algorithm calculates the 'distance' between words. It's often used to give a user
 possible alternative words/commands/.. etc. if one typed in a 'wrong' command, e.g.
+
+<br><br>
+
+### Pointer Capture **Stack**
+<a href="https://github.com/kekse1/levenshtein.js/">
+<img id="pointercapturestack" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=PointerCaptureStack" />
+</a>
+
+Extending the **Pointer Events API** a little bit. ..
 
 <br><br>
 
