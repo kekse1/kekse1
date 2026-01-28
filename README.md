@@ -287,7 +287,7 @@ possible alternative words/commands/.. etc. if one typed in a 'wrong' command, e
 <br><br>
 
 ### Pointer Capture **Stack**
-<a href="https://github.com/kekse1/pointercapturestack/">
+<a href="https://github.com/kekse1/PointerCaptureStack/">
 <img id="pointercapturestack" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=PointerCaptureStack" />
 </a>
 
