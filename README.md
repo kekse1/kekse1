@@ -345,6 +345,7 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 * [**quickjs**](https://github.com/kekse1/quickjs/)
 * [**llama3pure**](https://github.com/kekse1/llama3pure/)
 * [**nanochat**](https://github.com/kekse1/nanochat)
+* [**x86CSS**](https://github.com/kekse1/x86CSS/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
