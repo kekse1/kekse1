@@ -347,6 +347,7 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 * [**nanochat**](https://github.com/kekse1/nanochat)
 * [**x86CSS**](https://github.com/kekse1/x86CSS/)
 * [**IPTV**](https://github.com/kekse1/IPTV/)
+* [**artificial-life**](https://github.com/kekse1/artificial-life/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
