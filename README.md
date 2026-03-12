@@ -22,7 +22,7 @@
 
 ## Overview
 
-* my [**Repositories**](#repositories)
+* my [**Repositories**](#my-repositories)
 * my [**Forks**](#my-forks)
 * my [**Prompt**](#my-prompt)
 * my [**FavIcon**](#my-favicon)
