@@ -31,7 +31,7 @@
 
 <br><br>
 
-## Repositories
+## my Repositories
 Here are some of my own repositories, sorted by (kinda) priority.
 
 > [!IMPORTANT]
@@ -314,7 +314,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 
 <br><br><br><br>
 
-## My Forks
+## my Forks
 Some interesting repositories I wanted to mirror here (that's the reason I fork).
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
@@ -353,14 +353,14 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 
 <br><br><br><br>
 
-## My Prompt
+## my Prompt
 See also my [**Prompt**](#prompt) repository.
 
 ![xterm-256color](./img/prompt.png)
 
 <br><br><br><br>
 
-## My [FavIcon](https://kekse.biz/)
+## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
@@ -368,7 +368,7 @@ See also my [**Prompt**](#prompt) repository.
 
 <br><br><br><br>
 
-## My [Links](https://kekse.biz/?~links)
+## my [Links](https://kekse.biz/?~links)
 * [**`kekse.biz`**](https://kekse.biz/)
 * [**`biscuits.casa`**](https://biscuits.casa/)
 * [**`leverkusen.li`**](https://leverkusen.li/)
@@ -379,6 +379,6 @@ See also my [**Prompt**](#prompt) repository.
 
 <br><br><br><br>
 
-## My [Sneakers](https://etnies.com/)
+## my [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
 
