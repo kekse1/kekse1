@@ -110,7 +110,7 @@ My own **Radix Viewer**. First version with only **viewing** functionality.
 > [!NOTE]
 > When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
 
-I really needed such a tool for myself to develop/debug my **Norbert**,
+I really needed such a tool for myself to develop/debug my `Norbert`,
 and since I also needed other tools for this reason, I just implemented 'em here, too.
 
 The available utilties are explained in the README, too; they're some extensions to this cool tool,
