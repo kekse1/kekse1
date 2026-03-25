@@ -316,6 +316,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 
 ## my Forks
 Some interesting repositories I wanted to mirror here (that's the reason I fork).
+I promise that soon I'll clean this list up a bit. It's way too large.
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -350,6 +351,7 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 * [**artificial-life**](https://github.com/kekse1/artificial-life/)
 * [**llm.c**](https://github.com/kekse1/llm.c/)
 * [**llama2.c**](https://github.com/kekse1/llama2.c/)
+* [**autoresearch**](https://github.com/kekse1/autoresearch/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
