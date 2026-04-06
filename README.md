@@ -11,7 +11,7 @@
 | Key                      | Value                                                                                                                                                                           |
 | -----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 👋 **Website**           | <a href="https://kekse.biz/"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kekse.biz&angle=0&size=38px&fg=120,70,10&font=OpenSans&ro&readonly&h=94px" /></a> |
-| 📫 **Mail** address      | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=150,20,90&font=OpenSans&ro&readonly&h=16px" />                           |
+| 📫 **Mail**              | <img src="https://kekse.biz/github.php?override=github:kekse1&draw&text=kuchen@kekse.biz&angle=0&size=28px&fg=150,20,90&font=OpenSans&ro&readonly&h=16px" />                           |
 
 <br>
 
