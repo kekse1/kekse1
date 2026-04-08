@@ -316,7 +316,6 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 
 ## my Forks
 Some interesting repositories I wanted to mirror here (that's the reason I fork).
-I promise that soon I'll clean this list up a bit. It's way too large.
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -325,25 +324,19 @@ I promise that soon I'll clean this list up a bit. It's way too large.
 * [**c64ref**](https://github.com/kekse1/c64ref/)
 * [**deep-tempest**](https://github.com/kekse1/deep-tempest/)
 * [**gr-tempest**](https://github.com/kekse1/gr-tempest/)
+* [**tempest-lcd**](https://github.com/kekse1/tempest-lcd/)
 * [**games**](https://github.com/kekse1/games/)
 * [**doom-ascii**](https://github.com/kekse1/doom-ascii/)
-* [**linuxpdf**](https://github.com/kekse1/linuxpdf/)
 * [**forkrun**](https://github.com/kekse1/forkrun/)
 * [**awesome-bash**](https://github.com/kekse1/awesome-bash/)
 * [**CL4R1T4S**](https://github.com/kekse1/CL4R1T4S/)
 * [**system_prompts_leaks**](https://github.com/kekse1/system_prompts_leaks)
-* [**term.everything**](https://github.com/kekse1/term.everything/)
-* [**chafa**](https://github.com/kekse1/chafa/)
-* [**chafa-wasm**](https://github.com/kekse1/chafa-wasm/)
-* [**spacegamex64**](https://github.com/kekse1/spacegamex64/)
 * [**Singularity**](https://github.com/kekse1/Singularity/)
-* [**lychee**](https://github.com/kekse1/lychee/)
 * [**craftgpt**](https://github.com/kekse1/craftgpt/)
 * [**phoenix**](https://github.com/kekse1/phoenix/)
 * [**raytracing.github.io**](https://github.com/kekse1/raytracing.github.io/)
 * [**remove-refusals-with-transformers**](https://github.com/kekse1/remove-refusals-with-transformers/)
 * [**hk**](https://github.com/kekse1/hk/)
-* [**quickjs**](https://github.com/kekse1/quickjs/)
 * [**llama3pure**](https://github.com/kekse1/llama3pure/)
 * [**nanochat**](https://github.com/kekse1/nanochat)
 * [**x86CSS**](https://github.com/kekse1/x86CSS/)
@@ -352,8 +345,8 @@ I promise that soon I'll clean this list up a bit. It's way too large.
 * [**llm.c**](https://github.com/kekse1/llm.c/)
 * [**llama2.c**](https://github.com/kekse1/llama2.c/)
 * [**autoresearch**](https://github.com/kekse1/autoresearch/)
+* [**guppylm**](https://github.com/kekse1/guppylm/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
-* [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
 <br><br><br><br>
 
