@@ -345,11 +345,8 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 * [**llm.c**](https://github.com/kekse1/llm.c/)
 * [**llama2.c**](https://github.com/kekse1/llama2.c/)
 * [**autoresearch**](https://github.com/kekse1/autoresearch/)
-<<<<<<< HEAD
 * [**awesome-opensource-ai**](https://github.com/kekse1/awesome-opensource-ai/)
-=======
 * [**guppylm**](https://github.com/kekse1/guppylm/)
->>>>>>> 08fe923d3a0c9f5814a5d3a0726be2f9830ecf58
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
 <br><br><br><br>
