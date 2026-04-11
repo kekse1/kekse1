@@ -352,6 +352,7 @@ I promise that soon I'll clean this list up a bit. It's way too large.
 * [**llm.c**](https://github.com/kekse1/llm.c/)
 * [**llama2.c**](https://github.com/kekse1/llama2.c/)
 * [**autoresearch**](https://github.com/kekse1/autoresearch/)
+* [**awesome-opensource-ai**](https://github.com/kekse1/awesome-opensource-ai/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 * [BASIC-M6502](https://github.com/kekse1/BASIC-M6502/) (Archived)
 
