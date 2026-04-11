@@ -347,6 +347,7 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 * [**autoresearch**](https://github.com/kekse1/autoresearch/)
 * [**awesome-opensource-ai**](https://github.com/kekse1/awesome-opensource-ai/)
 * [**guppylm**](https://github.com/kekse1/guppylm/)
+* [**mempalace**](https://github.com/kekse1/mempalace/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
 <br><br><br><br>
