@@ -48,7 +48,7 @@ Here are some of my own repositories, sorted by (kinda) priority.
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
 * [**`Erase.js`**](#erasejs)
-* [**`zsleep`**](#zsleep)
+* [**`asleep`**](#asleep)
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -157,9 +157,9 @@ So I needed to do this directly on file level..
 
 <br><br>
 
-### zsleep
-<a href="https://github.com/kekse1/zsleep/">
-<img id="zsleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=zsleep" />
+### asleep
+<a href="https://github.com/kekse1/asleep/">
+<img id="asleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=asleep" />
 </a>
 
 My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies.
