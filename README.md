@@ -34,6 +34,7 @@
 ## my Repositories
 
 <details><summary>🐭 Here are some of my own repositories, sorted by (kinda) priority.</summary>
+<br><br>
 
 #### Index
 
@@ -310,6 +311,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 ## my Forks
 
 <details><summary>🐭 Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
+<br><br>
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -351,6 +353,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 ## my [Links](https://kekse.biz/?~links)
 
 <details><summary>🐭 Just for our info.</summary>
+<br><br>
 
 * [**`kekse.biz`**](https://kekse.biz/)
 * [**`biscuits.casa`**](https://biscuits.casa/)
@@ -360,7 +363,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 * [**`linkedin.com/in/quantenmechaniker/`**](https://linkedin.com/in/quantenmechaniker/)
 * [**`facer.io/u/kekse/`**](https://facer.io/u/kekse/)
 
-<br><br><br><br>
+<br><br><br>
 </details>
 
 ## my Prompt
