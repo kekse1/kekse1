@@ -25,7 +25,6 @@
 * my [**Repositories**](#my-repositories)
 * my [**Forks**](#my-forks)
 * my [**Links**](#my-links)
-* my [**Prompt**](#my-prompt)
 * my [**FavIcon**](#my-favicon)
 * my [**Sneakers**](#my-sneakers)
 
@@ -367,12 +366,6 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 <br><br>
 </details>
 <br>
-
-## my Prompt
-
-<details><summary>🐭 See also my [**Prompt**](#prompt) repository.</summary>
-<br><img src="./img/prompt.png" alt="xterm-256color" /><br><br><br>
-</details><br>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
