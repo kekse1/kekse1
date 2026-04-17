@@ -25,6 +25,7 @@
 * my [**Repositories**](#my-repositories)
 * my [**Forks**](#my-forks)
 * my [**Links**](#my-links)
+* my [**Blog**](#my-blog)
 * my [**FavIcon**](#my-favicon)
 * my [**Sneakers**](#my-sneakers)
 
@@ -366,6 +367,10 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 <br><br>
 </details>
 <br>
+
+## my [Blog](https://kekse.biz/?~blog)
+https://kekse.biz/?~blog
+<br><br>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
