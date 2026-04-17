@@ -33,12 +33,7 @@
 
 ## my Repositories
 
-<details><summary>🐭 Here are some of my own repositories, sorted by (kinda) priority.</summary>
-
-> [!IMPORTANT]
-> This is **not** <a href="#all-repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18&fg=100,30,150&font=OpenSans&ro&readonly&h=4&text=the%20complete%20list." /></a>
-
-<br>
+<details><summary>(🐭) Here are some of my own repositories, sorted by (kinda) priority.</summary>
 
 #### Index
 
@@ -318,7 +313,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 
 ## my Forks
 
-<details><summary>🐭 Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
+<details><summary>(🐭) Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
 
 Some interesting repositories I wanted to mirror here. That's the reason I fork,
 and because I'll find these nice projects l8rs again..
@@ -362,9 +357,8 @@ and because I'll find these nice projects l8rs again..
 
 ## my Prompt
 
-<details><summary>[🐭 See also my [**Prompt**](#prompt) repository.</summary>
-![xterm-256color](./img/prompt.png)
-<br><br><br><br>
+<details><summary>(🐭) See also my [**Prompt**](#prompt) repository.</summary>
+<img src="./img/prompt.png" alt="xterm-256color" /><br><br><br>
 </details>
 
 ## my [FavIcon](https://kekse.biz/)
