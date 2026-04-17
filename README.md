@@ -370,15 +370,13 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 <br>
 
 ## my [Blog](https://kekse.biz/?~blog)
-https://kekse.biz/?~blog
+https://kekse.biz/?~blog (german)
 <br><br><br>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
 <img src="img/favicon.256px.png" alt="Favicon" />
-</a>
-
-<br><br>
+</a><br>
 
 ## my [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
