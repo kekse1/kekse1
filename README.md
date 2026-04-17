@@ -310,7 +310,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 ## my Forks
 
 <details><summary>🐭 Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
-<br><br>
+<br>
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -352,7 +352,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 ## my [Links](https://kekse.biz/?~links)
 
 <details><summary>🐭 Just for our info.</summary>
-<br><br>
+<br>
 
 * [**`kekse.biz`**](https://kekse.biz/)
 * [**`biscuits.casa`**](https://biscuits.casa/)
@@ -368,7 +368,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 ## my Prompt
 
 <details><summary>🐭 See also my [**Prompt**](#prompt) repository.</summary>
-<img src="./img/prompt.png" alt="xterm-256color" /><br><br><br>
+<br><img src="./img/prompt.png" alt="xterm-256color" /><br><br><br>
 </details>
 
 ## my [FavIcon](https://kekse.biz/)
