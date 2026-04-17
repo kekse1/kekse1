@@ -33,7 +33,8 @@
 
 ## my Repositories
 
-<details><summary>🐭 Here are some of my own repositories, sorted by (kinda) priority.</summary>
+<details><summary>🐭 Here are **some** of my own repositories.</summary>
+<br>
 
 #### Index
 
@@ -59,7 +60,7 @@
 * [**`PHP`**](#php)
 * [(all Repositories)](#all-repositories)
 
-<br><br><br><br>
+<br><br><br>
 
 ### Prompt (`$PS1`)
 <a href="https://github.com/kekse1/prompt/">
