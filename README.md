@@ -317,13 +317,11 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 </details>
 
 ## my Forks
-<<<<<<< HEAD
 
 <details><summary>\[(**click here**)\] Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
-=======
+
 Some interesting repositories I wanted to mirror here. That's the reason I fork,
 and because I'll find these nice projects l8rs again..
->>>>>>> 01ad4cae44fbecb5d82af45fcab94c8f43218d7b
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
