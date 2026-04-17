@@ -354,7 +354,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 
 ## my [Links](https://kekse.biz/?~links)
 
-<details><summary>🐭 Just for our info.</summary>
+<details><summary>🐭 Citizen of the World Wide Web..</summary>
 <br>
 
 * [**`kekse.biz`**](https://kekse.biz/)
