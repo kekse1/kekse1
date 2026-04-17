@@ -49,7 +49,7 @@
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
 * [**`Erase.js`**](#erasejs)
-* [**`zsleep`**](#zsleep)
+* [**`asleep`**](#asleep)
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
@@ -158,9 +158,9 @@ So I needed to do this directly on file level..
 
 <br><br>
 
-### zsleep
-<a href="https://github.com/kekse1/zsleep/">
-<img id="zsleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=zsleep" />
+### asleep
+<a href="https://github.com/kekse1/asleep/">
+<img id="asleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=asleep" />
 </a>
 
 My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies.
@@ -317,8 +317,13 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 </details>
 
 ## my Forks
+<<<<<<< HEAD
 
 <details><summary>\[(**click here**)\] Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
+=======
+Some interesting repositories I wanted to mirror here. That's the reason I fork,
+and because I'll find these nice projects l8rs again..
+>>>>>>> 01ad4cae44fbecb5d82af45fcab94c8f43218d7b
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -350,6 +355,8 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 * [**autoresearch**](https://github.com/kekse1/autoresearch/)
 * [**awesome-opensource-ai**](https://github.com/kekse1/awesome-opensource-ai/)
 * [**guppylm**](https://github.com/kekse1/guppylm/)
+* [**mempalace**](https://github.com/kekse1/mempalace/)
+* [**thunderbolt**](https://github.com/kekse1/thunderbolt/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
 <br><br><br><br>
