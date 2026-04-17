@@ -24,9 +24,9 @@
 
 * my [**Repositories**](#my-repositories)
 * my [**Forks**](#my-forks)
+* my [**Links**](#my-links)
 * my [**Prompt**](#my-prompt)
 * my [**FavIcon**](#my-favicon)
-* my [**Links**](#my-links)
 * my [**Sneakers**](#my-sneakers)
 
 <br><br>
@@ -348,6 +348,21 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 <br><br><br><br>
 </details>
 
+## my [Links](https://kekse.biz/?~links)
+
+<details><summary>🐭 Just for our info.</summary>
+
+* [**`kekse.biz`**](https://kekse.biz/)
+* [**`biscuits.casa`**](https://biscuits.casa/)
+* [**`leverkusen.li`**](https://leverkusen.li/)
+* [**`256.zone`**](https://256.zone/)
+* [**`facebook.com/geleeschaumgummi/`**](https://facebook.com/geleeschaumgummi/)
+* [**`linkedin.com/in/quantenmechaniker/`**](https://linkedin.com/in/quantenmechaniker/)
+* [**`facer.io/u/kekse/`**](https://facer.io/u/kekse/)
+
+<br><br><br><br>
+</details>
+
 ## my Prompt
 
 <details><summary>🐭 See also my [**Prompt**](#prompt) repository.</summary>
@@ -359,19 +374,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
 
-
-<br><br><br><br>
-
-## my [Links](https://kekse.biz/?~links)
-* [**`kekse.biz`**](https://kekse.biz/)
-* [**`biscuits.casa`**](https://biscuits.casa/)
-* [**`leverkusen.li`**](https://leverkusen.li/)
-* [**`256.zone`**](https://256.zone/)
-* [**`facebook.com/geleeschaumgummi/`**](https://facebook.com/geleeschaumgummi/)
-* [**`linkedin.com/in/quantenmechaniker/`**](https://linkedin.com/in/quantenmechaniker/)
-* [**`facer.io/u/kekse/`**](https://facer.io/u/kekse/)
-
-<br><br><br><br>
+<br><br><br>
 
 ## my [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
