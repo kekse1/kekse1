@@ -304,8 +304,9 @@ l8rs even a "Technical Administrator". So maybe I didn't forget *that* much abou
 
 And here is the [complete **repository** list](https://github.com/kekse1?tab=repositories).
 
-<br><br><br><br>
+<br><br><br>
 </details>
+<br>
 
 ## my Forks
 
@@ -346,8 +347,9 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 * [**thunderbolt**](https://github.com/kekse1/thunderbolt/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
-<br><br><br><br>
+<br><br><br>
 </details>
+<br>
 
 ## my [Links](https://kekse.biz/?~links)
 
@@ -362,14 +364,15 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 * [**`linkedin.com/in/quantenmechaniker/`**](https://linkedin.com/in/quantenmechaniker/)
 * [**`facer.io/u/kekse/`**](https://facer.io/u/kekse/)
 
-<br><br><br>
+<br><br>
 </details>
+<br>
 
 ## my Prompt
 
 <details><summary>🐭 See also my [**Prompt**](#prompt) repository.</summary>
 <br><img src="./img/prompt.png" alt="xterm-256color" /><br><br><br>
-</details>
+</details><br>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
