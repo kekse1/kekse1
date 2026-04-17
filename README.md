@@ -34,7 +34,6 @@
 ## my Repositories
 
 <details><summary>🐭 Here are some of my own repositories, sorted by (kinda) priority.</summary>
-<br><br>
 
 #### Index
 
