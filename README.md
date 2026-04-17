@@ -32,7 +32,8 @@
 <br><br>
 
 ## my Repositories
-Here are some of my own repositories, sorted by (kinda) priority.
+
+<details><summary>\[(**click here**)\] Here are some of my own repositories, sorted by (kinda) priority.</summary>
 
 > [!IMPORTANT]
 > This is **not** <a href="#all-repositories"><img src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=2&size=18&fg=100,30,150&font=OpenSans&ro&readonly&h=4&text=the%20complete%20list." /></a>
@@ -313,9 +314,11 @@ l8rs even a "Technical Administrator". So maybe I didn't forget *that* much abou
 And here is the [complete **repository** list](https://github.com/kekse1?tab=repositories).
 
 <br><br><br><br>
+</details>
 
 ## my Forks
-Some interesting repositories I wanted to mirror here (that's the reason I fork).
+
+<details><summary>\[(**click here**)\] Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -350,13 +353,14 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
 <br><br><br><br>
+</details>
 
 ## my Prompt
-See also my [**Prompt**](#prompt) repository.
 
+<details><summary>\[(**click here**)\] See also my [**Prompt**](#prompt) repository.</summary>
 ![xterm-256color](./img/prompt.png)
-
 <br><br><br><br>
+</details>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
