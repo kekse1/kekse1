@@ -370,7 +370,7 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 
 ## my [Blog](https://kekse.biz/?~blog)
 https://kekse.biz/?~blog
-<br><br>
+<br><br><br>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
