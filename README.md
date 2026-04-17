@@ -315,7 +315,8 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 <br><br><br><br>
 
 ## my Forks
-Some interesting repositories I wanted to mirror here (that's the reason I fork).
+Some interesting repositories I wanted to mirror here. That's the reason I fork,
+and because I'll find these nice projects l8rs again..
 
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
@@ -348,6 +349,7 @@ Some interesting repositories I wanted to mirror here (that's the reason I fork)
 * [**awesome-opensource-ai**](https://github.com/kekse1/awesome-opensource-ai/)
 * [**guppylm**](https://github.com/kekse1/guppylm/)
 * [**mempalace**](https://github.com/kekse1/mempalace/)
+* [**thunderbolt**](https://github.com/kekse1/thunderbolt/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
 <br><br><br><br>
