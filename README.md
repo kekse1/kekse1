@@ -90,9 +90,8 @@ I decided to create my own one(s). So here's my [**`Biscuits Collection`**](http
 
 This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 
-> [!NOTE]
-> Available as **JavaScript** implementation, and there's also a
-> (much smaller) **Bash Shell** version available.
+... available as **JavaScript** implementation, and there's
+also a (much smaller) **Bash Shell** version available.
 
 <br><br>
 
@@ -101,10 +100,8 @@ This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 <img id="dumpjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Dump.js" />
 </a>
 
-My own **Radix Viewer**. First version with only **viewing** functionality.
-
-> [!NOTE]
-> When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
+My own **Radix Viewer**. First version with only **viewing** functionality (when I
+talk about the **radix**, I mean the numeric **base** [decimal, binary/dual, ..]).
 
 I really needed such a tool for myself to develop/debug my `Norbert`,
 and since I also needed other tools for this reason, I just implemented 'em here, too.
@@ -179,8 +176,7 @@ Just started this one, since I needed to insert comments in my
 
 Extensions for **JavaScript**/[**Node.js**](https://nodejs.org/) of **ANSI Escape Sequences**.
 
-> [!TIP]
-> There's also the [scripts/**ansi.sh**](https://github.com/kekse1/scripts/#ansish).
+And, btw., there's also the [scripts/**ansi.sh**](https://github.com/kekse1/scripts/#ansish).
 
 <br><br>
 
