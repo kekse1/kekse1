@@ -311,9 +311,6 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 
 <details><summary>🐭 Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
 
-Some interesting repositories I wanted to mirror here. That's the reason I fork,
-and because I'll find these nice projects l8rs again..
-
 * [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
 * [**llm-course**](https://github.com/kekse1/llm-course/)
 * [**knowledge**](https://github.com/kekse1/knowledge/)
