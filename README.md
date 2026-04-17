@@ -377,7 +377,7 @@ https://kekse.biz/?~blog
 <img src="img/favicon.256px.png" alt="Favicon" />
 </a>
 
-<br><br><br>
+<br><br>
 
 ## my [Sneakers](https://etnies.com/)
 <img src="img/sneakers.png" alt="Etnies" />
