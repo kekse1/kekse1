@@ -171,9 +171,9 @@ My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies
 
 <br><br>
 
-### bytecmp
-<a href="https://github.com/kekse1/bytecmp/">
-<img id="bytecmp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=bytecmp" />
+### dotfiles
+<a href="https://github.com/kekse1/dotfiles/">
+<img id="dotfiles" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=dotfiles" />
 </a>
 
 VERY, very tiny **beginning** (**2026-05-15**).
