@@ -400,11 +400,13 @@ https://kekse.biz/?~blog (german)
 <br><br><br>
 
 ## my [Prompt](https://github.com/kekse1/prompt/)
+
+<details><summary>🐭 Here is the prompt I've coded myself and which I'm actually using.</summary>
 Click on the Example Screenshot below to open it in full-size view.
 
 <a href="./img/screenshot.original.jpg">
-    <img alt="Example Screenshot; v2.12.0." src="./img/screenshot.jpg" />
-</a>
+    <img alt="Example Screenshot; v2.12.0." src="./img/screenshot.jpg" /></a>
+</details>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
