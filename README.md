@@ -369,7 +369,6 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 * [**awesome-opensource-ai**](https://github.com/kekse1/awesome-opensource-ai/)
 * [**guppylm**](https://github.com/kekse1/guppylm/)
 * [**mempalace**](https://github.com/kekse1/mempalace/)
-* [**thunderbolt**](https://github.com/kekse1/thunderbolt/)
 * [**llm-from-scratch**](https://github.com/kekse1/llm-from-scratch/)
 * [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
