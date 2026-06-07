@@ -404,8 +404,8 @@ https://kekse.biz/?~blog (german)
 <details><summary>🐭 Here is the prompt I've coded myself and which I'm actually using.</summary>
 <br>Click on the Example Screenshot below to open it in full-size view.
 
-<a href="./img/screenshot.original.jpg">
-    <img alt="Example Screenshot; v2.12.0." src="./img/screenshot.jpg" /></a>
+<a href="./img/prompt.full.png">
+    <img alt="Example Screenshot; v2.12.3." src="./img/prompt.png" /></a>
 </details>
 
 ## my [FavIcon](https://kekse.biz/)
