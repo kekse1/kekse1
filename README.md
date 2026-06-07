@@ -406,7 +406,9 @@ https://kekse.biz/?~blog (german)
 
 <a href="./img/prompt.full.png">
     <img alt="Example Screenshot; v2.12.3." src="./img/prompt.png" /></a>
+<br><br>
 </details>
+<br>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
