@@ -26,6 +26,7 @@
 * my [**Forks**](#my-forks)
 * my [**Links**](#my-links)
 * my [**Blog**](#my-blog)
+* my [**Prompt**](#my-prompt)
 * my [**FavIcon**](#my-favicon)
 * my [**Sneakers**](#my-sneakers)
 
@@ -396,6 +397,17 @@ And here is the [complete **repository** list](https://github.com/kekse1?tab=rep
 ## my [Blog](https://kekse.biz/?~blog)
 https://kekse.biz/?~blog (german)
 <br><br><br>
+
+## my [Prompt](https://github.com/kekse1/prompt/)
+
+<details><summary>🐭 Here is the prompt I've coded myself and which I'm actually using.</summary>
+<br>Click on the Example Screenshot below to open it in full-size view.
+
+<a href="./img/prompt.full.png">
+    <img alt="Example Screenshot; v2.12.3." src="./img/prompt.png" /></a>
+<br><br>
+</details>
+<br>
 
 ## my [FavIcon](https://kekse.biz/)
 <a href="img/favicon.512px.png" target="_blank">
