@@ -20,8 +20,6 @@
 
 <br><br>
 
-[test!](https://github.com/kekse1/kekse1/#my-repositories)
-
 ## Overview
 
 * my [**Repositories**](#my-repositories)
