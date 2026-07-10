@@ -232,7 +232,7 @@ Radix/base/unit/.. conversions. **JavaScript** code.
 
 <br><br>
 
-### A.I. Slop
+### `ai.kekse.biz`
 <a href="https://github.com/kekse1/ai.kekse.biz/">
 <img id="slop" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=A.I.%20Slop" />
 </a>
