@@ -51,7 +51,7 @@
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`RADIX`**](#radix)
-* [**`A.I. Slop`**](#slop)
+* [**`Slop`**](#slop)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`unwiki`**](#unwiki)
