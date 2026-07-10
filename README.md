@@ -51,7 +51,7 @@
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`RADIX`**](#radix)
-* [**`ai.kekse.biz`**](#slop)
+* [**`A.I. Slop`**](#slop)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`unwiki`**](#unwiki)
@@ -234,7 +234,7 @@ Radix/base/unit/.. conversions. **JavaScript** code.
 
 ### A.I. Slop
 <a href="https://github.com/kekse1/ai.kekse.biz/">
-<img id="slop" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Slop" />
+<img id="slop" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=A.I.%20Slop" />
 </a>
 
 Some **SVG** images to set your statement for/against **coding with A.I.**.
