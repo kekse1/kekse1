@@ -51,6 +51,7 @@
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`RADIX`**](#radix)
+* [**`ai.kekse.biz`**](#slop)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`unwiki`**](#unwiki)
@@ -228,6 +229,21 @@ See also this [example screenshot](https://github.com/kekse1/noto-emoji-animatio
 </a>
 
 Radix/base/unit/.. conversions. **JavaScript** code.
+
+<br><br>
+
+### A.I. Slop
+<a href="https://github.com/kekse1/ai.kekse.biz/">
+<img id="slop" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Slop" />
+</a>
+
+Some **SVG** images to set your statement for/against **coding with A.I.**.
+
+<br>
+
+AFAIK there are now also kinda 'official' graphics which should be used to mark A.I. generated contents..
+so my idea was good, even if I don't really know why one should really use such images
+(when they can create such on their owns as well ;-)
 
 <br><br>
 
