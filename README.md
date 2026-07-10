@@ -1,10 +1,8 @@
 <img src="https://kekse.biz/github.php?draw&override=github:kekse1" />
 
-<br><br>
-
 # **Kuchen**\`s
 
-<br>
+<br><br>
 
 ## Contact
 
