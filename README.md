@@ -233,11 +233,11 @@ See also this [example screenshot](https://github.com/kekse1/noto-emoji-animatio
 Radix/base/unit/.. conversions. **JavaScript** code.
 
 The first (JavaScript) source file contains a real RADIX/base conversion with Number and BigInt.
-So you gotta see how we convert between all possible **number systems** - up to the Byte(**256**),
-plus some reductions to also encode sign and/or floating points..
+So you gotta see how we convert between all possible **number systems** - up to the pure
+**Byte**s(**256**) (also w/ some reductions to also encode sign and/or floating points).
 
-The second part (see [below](#unit)) contains conversions for **size** and **time** units. Even
-with parsing (etc.) '**clock**'s (newest code, as of **2026-07-15**).
+The second part (see [below](#unit)) contains conversions for **size** and **time** units.
+Even with parsing (etc.) '**clock**'s (newest code, as of **2026-07-15**).
 
 All the codes extend the global `Math` object.
 
