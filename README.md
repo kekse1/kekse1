@@ -52,7 +52,6 @@
 * [**`ANSI.js`**](#ansijs)
 * [**`noto-emoji-animation`**](#noto-emoji-animation)
 * [**`radix`**](#radix)
-* [**`unit`**](#unit)
 * [**`Slop`**](#slop)
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
@@ -236,19 +235,10 @@ The first (JavaScript) source file contains a real RADIX/base conversion with Nu
 So you gotta see how we convert between all possible **number systems** - up to the pure
 **Byte**s(**256**) (also w/ some reductions to also encode sign and/or floating points).
 
-The second part (see [below](#unit)) contains conversions for **size** and **time** units.
+The second part contains conversions for **size** and **time** units.
 Even with parsing (etc.) '**clock**'s (newest code, as of **2026-07-15**).
 
 All the codes extend the global `Math` object.
-
-<br><br>
-
-### `unit`
-<a href="https://github.com/kekse1/unit/">
-<img id="radix" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=unit" />
-</a>
-
-Just a redirection to my [`radix`](#radix) repository. Because the `unit.js` got some updates today (**2026-07-15**)! ^_^
 
 <br><br>
 
