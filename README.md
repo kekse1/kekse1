@@ -45,8 +45,8 @@
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
 * [**`radix`**](#radix)
-* [**`Erase.js`**](#erasejs)
 * [**`asleep`**](#asleep)
+* [**`Erase.js`**](#erasejs)
 * [**`bytecmp`**](#bytecmp)
 * [**`dotfiles`**](#dotfiles)
 * [**`JSON.js`**](#jsonjs)
@@ -158,6 +158,15 @@ All the codes extend the global `Math` object.
 
 <br><br>
 
+### asleep
+<a href="https://github.com/kekse1/asleep/">
+<img id="asleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=asleep" />
+</a>
+
+My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies.
+
+<br><br>
+
 ### Erase.js
 <a href="https://github.com/kekse1/erase.js/">
 <img id="erasejs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Erase.js" />
@@ -169,15 +178,6 @@ overwriting all files with exactly the same amount of `\0` or random bytes.
 
 Without jailbreak one can't `dd` the whole disk drive(s).
 So I needed to do this directly on file level..
-
-<br><br>
-
-### asleep
-<a href="https://github.com/kekse1/asleep/">
-<img id="asleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=asleep" />
-</a>
-
-My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies.
 
 <br><br>
 
