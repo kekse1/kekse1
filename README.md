@@ -38,14 +38,14 @@
 
 #### Index
 
-* [**`PROMPT`**](#prompt)
+* [**`Prompt`**](#prompt)
+* [**`asleep`**](#asleep)
 * [**`Smartwatch`**](#smartwatch)
 * [**`Field`**](#field)
 * [**`Dump.js`**](#dumpjs)
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
 * [**`radix`**](#radix)
-* [**`asleep`**](#asleep)
 * [**`Erase.js`**](#erasejs)
 * [**`bytecmp`**](#bytecmp)
 * [**`dotfiles`**](#dotfiles)
@@ -75,6 +75,14 @@ using the `$PROMPT_COMMAND` dynamics. Also see [below](#my-prompt).
 
 <br><br>
 
+### asleep
+<a href="https://github.com/kekse1/asleep/">
+<img id="asleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=asleep" />
+</a>
+
+My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies.
+
+<br><br>
 
 ### Smartwatch
 <a href="https://github.com/kekse1/smartwatch/">
@@ -155,15 +163,6 @@ The second part contains conversions for **size** and **time** units.
 Even with parsing (etc.) '**clock**'s (newest code, as of **2026-07-15**).
 
 All the codes extend the global `Math` object.
-
-<br><br>
-
-### asleep
-<a href="https://github.com/kekse1/asleep/">
-<img id="asleep" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=asleep" />
-</a>
-
-My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies.
 
 <br><br>
 
