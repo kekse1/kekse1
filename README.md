@@ -82,9 +82,8 @@ using the `$PROMPT_COMMAND` dynamics. Also see [below](#my-prompt).
 
 My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies.
 
-> [!TIP]
-> Works **as is**. It's not usual for my projects, because most times I'm using
-> own extensions which would need some polyfill.
+Really works **as is**. It's not usual for my projects, because most times I'm using
+own extensions which would need some polyfill.
 
 <br><br>
 
