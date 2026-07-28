@@ -22,7 +22,6 @@
 ## Overview
 
 * my [**Repositories**](#my-repositories)
-* my [**Forks**](#my-forks)
 * my [**Links**](#my-links)
 * my [**Blog**](#my-blog)
 * my [**Prompt**](#my-prompt)
@@ -355,49 +354,6 @@ l8rs even a "Technical Administrator". So maybe I didn't forget *that* much abou
 </a>
 
 And here is the [complete **repository** list](https://github.com/kekse1?tab=repositories).
-
-<br><br><br>
-</details>
-<br>
-
-## my Forks
-
-<details><summary>🐭 Some interesting repositories I wanted to mirror here (that's the reason I fork).</summary>
-<br>
-
-* [**build-your-own-x**](https://github.com/kekse1/build-your-own-x/)
-* [**llm-course**](https://github.com/kekse1/llm-course/)
-* [**knowledge**](https://github.com/kekse1/knowledge/)
-* [**RadixRedux**](https://github.com/kekse1/RadixRedux/)
-* [**c64ref**](https://github.com/kekse1/c64ref/)
-* [**deep-tempest**](https://github.com/kekse1/deep-tempest/)
-* [**gr-tempest**](https://github.com/kekse1/gr-tempest/)
-* [**tempest-lcd**](https://github.com/kekse1/tempest-lcd/)
-* [**games**](https://github.com/kekse1/games/)
-* [**doom-ascii**](https://github.com/kekse1/doom-ascii/)
-* [**forkrun**](https://github.com/kekse1/forkrun/)
-* [**awesome-bash**](https://github.com/kekse1/awesome-bash/)
-* [**CL4R1T4S**](https://github.com/kekse1/CL4R1T4S/)
-* [**system_prompts_leaks**](https://github.com/kekse1/system_prompts_leaks)
-* [**Singularity**](https://github.com/kekse1/Singularity/)
-* [**craftgpt**](https://github.com/kekse1/craftgpt/)
-* [**phoenix**](https://github.com/kekse1/phoenix/)
-* [**raytracing.github.io**](https://github.com/kekse1/raytracing.github.io/)
-* [**remove-refusals-with-transformers**](https://github.com/kekse1/remove-refusals-with-transformers/)
-* [**hk**](https://github.com/kekse1/hk/)
-* [**llama3pure**](https://github.com/kekse1/llama3pure/)
-* [**nanochat**](https://github.com/kekse1/nanochat)
-* [**x86CSS**](https://github.com/kekse1/x86CSS/)
-* [**IPTV**](https://github.com/kekse1/IPTV/)
-* [**artificial-life**](https://github.com/kekse1/artificial-life/)
-* [**llm.c**](https://github.com/kekse1/llm.c/)
-* [**llama2.c**](https://github.com/kekse1/llama2.c/)
-* [**autoresearch**](https://github.com/kekse1/autoresearch/)
-* [**awesome-opensource-ai**](https://github.com/kekse1/awesome-opensource-ai/)
-* [**guppylm**](https://github.com/kekse1/guppylm/)
-* [**mempalace**](https://github.com/kekse1/mempalace/)
-* [**llm-from-scratch**](https://github.com/kekse1/llm-from-scratch/)
-* [MS-DOS](https://github.com/kekse1/MS-DOS/) (Archived)
 
 <br><br><br>
 </details>
