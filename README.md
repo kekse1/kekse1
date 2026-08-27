@@ -39,6 +39,7 @@
 
 * [**`Prompt`**](#prompt)
 * [**`asleep`**](#asleep)
+* [**`getopt.js`**](#getoptjs)
 * [**`Smartwatch`**](#smartwatch)
 * [**`Field`**](#field)
 * [**`Dump.js`**](#dumpjs)
@@ -55,7 +56,6 @@
 * [**`v4`**](#v4)
 * [**`count.php`**](#countphp)
 * [**`unwiki`**](#unwiki)
-* [**`getopt.js`**](#getoptjs)
 * [**`nproc.c`**](#nprocc)
 * [**`levenshtein.js`**](#levenshteinjs)
 * [**`PointerCaptureStack`**](#pointercapturestack)
@@ -83,6 +83,18 @@ My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies
 
 Really works **as is**. It's not usual for my projects, because most times I'm using
 own extensions which would need some polyfill.
+
+<br><br>
+
+### getopt.js
+<a href="https://github.com/kekse1/getopt.js/">
+<img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=getopt.js" />
+</a>
+
+My own `getopt` interpretation, written in plain/vanilla JavaScript.
+
+Update \[**2026-08-26**\]: Made a really new version public here,
+created again all **from scratch**.
 
 <br><br>
 
@@ -288,18 +300,6 @@ The last feature I'd like to mention here is the (configurable) **`?text`** para
 strings instead of the counted values etc., e.g. to hide some info from automatic web crawlers/spiders/..
 etc., e.g. when you want to present your eMail address or so, and scramble it a bit (see my address on my
 [**`~impressum`**](https://kekse.biz/?~impressum) page, as an example 4u).
-
-<br><br>
-
-### getopt.js
-<a href="https://github.com/kekse1/getopt.js/">
-<img id="getoptjs" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=getopt.js" />
-</a>
-
-My own `getopt` interpretation, written in plain/vanilla JavaScript.
-
-Update \[**2026-08-26**\]: Made a really new version public here,
-created again all **from scratch**.
 
 <br><br>
 
