@@ -298,6 +298,9 @@ etc., e.g. when you want to present your eMail address or so, and scramble it a 
 
 My own `getopt` interpretation, written in plain/vanilla JavaScript.
 
+Update \[**2026-08-26**\]: Made a really new version public here,
+created again all **from scratch**.
+
 <br><br>
 
 ### unwiki
