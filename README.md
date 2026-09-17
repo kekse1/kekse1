@@ -48,6 +48,7 @@
 * [**`radix`**](#radix)
 * [**`Erase.js`**](#erasejs)
 * [**`bytecmp`**](#bytecmp)
+* [**`mem`**](#mem)
 * [**`dotfiles`**](#dotfiles)
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
@@ -199,7 +200,18 @@ So I needed to do this directly on file level..
 <img id="bytecmp" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=bytecmp" />
 </a>
 
-(**TODO**)
+Works.. btw.
+
+<br><br>
+
+### mem
+<a href="https://github.com/kekse1/mem/">
+<img id="mem" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=mem" />
+</a>
+
+Still a bit **TODO**. Partially works...
+
+**FYI**: One JavaScript and one Bash Script (most TODO).
 
 <br><br>
 
