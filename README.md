@@ -39,6 +39,7 @@
 
 * [**`Prompt`**](#prompt)
 * [**`asleep`**](#asleep)
+* [**`meminfo`**](#meminfo)
 * [**`getopt.js`**](#getoptjs)
 * [**`Smartwatch`**](#smartwatch)
 * [**`Field`**](#field)
@@ -48,7 +49,6 @@
 * [**`radix`**](#radix)
 * [**`Erase.js`**](#erasejs)
 * [**`bytecmp`**](#bytecmp)
-* [**`mem`**](#mem)
 * [**`dotfiles`**](#dotfiles)
 * [**`JSON.js`**](#jsonjs)
 * [**`ANSI.js`**](#ansijs)
@@ -84,6 +84,18 @@ My own, better `sleep` replacement. Vanilla JavaScript, without any dependencies
 
 Really works **as is**. It's not usual for my projects, because most times I'm using
 own extensions which would need some polyfill.
+
+<br><br>
+
+### meminfo
+<a href="https://github.com/kekse1/meminfo/">
+<img id="meminfo" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=meminfo" />
+</a>
+
+Will present you your `/proc/meminfo` in a more clean/better way.
+
+There are also some (command line) options (plus some `const DEFAULT*` in the script);
+they still need documentation here and in the `meminfo.syntax()` `--help` function!
 
 <br><br>
 
@@ -201,17 +213,6 @@ So I needed to do this directly on file level..
 </a>
 
 Works.. btw.
-
-<br><br>
-
-### mem
-<a href="https://github.com/kekse1/mem/">
-<img id="mem" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=mem" />
-</a>
-
-Still a bit **TODO**. Partially works...
-
-**FYI**: One JavaScript and one Bash Script (most TODO).
 
 <br><br>
 
