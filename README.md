@@ -94,9 +94,6 @@ own extensions which would need some polyfill.
 
 Will present you your `/proc/meminfo` in a more clean/better way.
 
-There are also some (command line) options (plus some `const DEFAULT*` in the script);
-they still need documentation here and in the `meminfo.syntax()` `--help` function!
-
 <br><br>
 
 ### getopt.js
