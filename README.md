@@ -20,14 +20,13 @@
 <br><br>
 
 > [!NOTE]
-> When I talk about the **radix** - and I'm doing it often, because I'm working very
-> much with numbers and numeric systems - I mean the numeric **base** (like decimal,
-> hexadecimal or dual/binary numbers). **For me** it's about **inner** and **outer**
-> bases (comparable to geometric axes)..
-> The digits/symbols itself w/ the **radix** (kinda depth), and the maximum numeric
-> values - like 12/24 hours or 60 seconds, etc. - are kinda outer bases (to rotate
-> the numbers around them).
-> Yesterday \[2026-10-10\] I realized that is my own definition/interpretation. :-)
+> When I talk about the '**radix**' — and I do it often, as I convert between number systems a lot — I mean
+> the numerical base of the numbers/digits/symbols themselves, a kind of '**inner**' base (positional base or
+> the alphabet size), or - geometrically speaking - the 'number **width**'.
+> On the other hand, I define the word '**base**' more as an '**outer**' magnitude (overflow limit, or some
+> modulo threshold) that describes the boundary of the 'number **height**' — for instance, 60 seconds
+> or 1024 bytes. While this diverges from standard mathematical usage, it provides more expressiveness
+> by assigning distinct roles to terms that are usually treated as synonyms.
 
 <br><br><br>
 
