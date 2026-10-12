@@ -20,11 +20,14 @@
 <br><br>
 
 > [!NOTE]
-> When I talk about the **radix**, I mean the numeric **base** (decimal, binary/dual, ..).
-> **For me** it's about **inner** and **outer** bases.. so the digits/symbols itself as
-> the **radix** (kinda **depth**) and the maximum numeric values (like **12/24h** or
-> **60min/sec** etc.). ... yesterday I realized that this is **my own definition**
-> (arose out of necessity - I'm excessively working w/ numbers ;-)
+> When I talk about the **radix** - and I'm doing it often, because I'm working very
+> much with numbers and numeric systems - I mean the numeric **base** (like decimal,
+> hexadecimal or dual/binary numbers). **For me** it's about **inner** and **outer**
+> bases (comparable to geometric axes)..
+> The digits/symbols itself w/ the **radix** (kinda depth), and the maximum numeric
+> values - like 12/24 hours or 60 seconds, etc. - are kinda outer bases (to rotate
+> the numbers around them).
+> Yesterday \[2026-10-10\] I realized that is my own definition/interpretation. :-)
 
 <br><br><br>
 
