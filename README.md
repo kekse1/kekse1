@@ -149,7 +149,7 @@ also a (much smaller) **Bash Shell** version available.
 </a>
 
 Once I had this idea.. I don't really know what to do with this `class FloatingArray extends Array`
-(except maybe one thing), but I seemed like "fun" to me.. if you've got ideas how to use it, mail me.
+(except maybe one thing), but I seemed kinda "fun" to me.. if you've got ideas how to use it, mail me.
 
 <br><br>
 
