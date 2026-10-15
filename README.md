@@ -145,7 +145,7 @@ also a (much smaller) **Bash Shell** version available.
 
 ### Floating Array
 <a href="https://github.com/kekse1/FloatingArray/">
-<img id="floating-array" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=FloatingArray" />
+<img id="floating-array" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Floating%20Array" />
 </a>
 
 Once I had this idea.. I don't really know what to do with this `class FloatingArray extends Array`
