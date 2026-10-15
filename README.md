@@ -54,6 +54,7 @@
 * [**`getopt.js`**](#getoptjs)
 * [**`Smartwatch`**](#smartwatch)
 * [**`Field`**](#field)
+* [**`Floating Array`**](#floating-array)
 * [**`Dump.js`**](#dumpjs)
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
@@ -139,6 +140,16 @@ This is the best[tm] way to manage multi-dimensional arrays (of **any type**).
 
 ... available as **JavaScript** implementation, and there's
 also a (much smaller) **Bash Shell** version available.
+
+<br><br>
+
+### Floating Array
+<a href="https://github.com/kekse1/FloatingArray/">
+<img id="floating-array" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=FloatingArray" />
+</a>
+
+Once I had this idea.. I don't really know what to do with this `class FloatingArray extends Array`
+(except maybe one thing), but I seemed like "fun" to me.. if you've got ideas how to use it, mail me.
 
 <br><br>
 
