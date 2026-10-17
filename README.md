@@ -58,7 +58,6 @@
 * [**`Dump.js`**](#dumpjs)
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
-* [**`radix`**](#radix)
 * [**`Erase.js`**](#erasejs)
 * [**`bytecmp`**](#bytecmp)
 * [**`dotfiles`**](#dotfiles)
@@ -191,24 +190,6 @@ My [`JavaScripts`](#javascripts) moved to their own [`JavaScripts` repository](h
 </a>
 
 This started by moving all the JavaScripts from my [**`scripts`**](#scripts) repository.
-
-<br><br>
-
-### `radix`
-<a href="https://github.com/kekse1/radix/">
-<img id="radix" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=radix" />
-</a>
-
-Radix/base/unit/.. conversions. **JavaScript** code.
-
-The first (JavaScript) source file contains a real RADIX/base conversion with Number and BigInt.
-So you gotta see how we convert between all possible **number systems** - up to the pure
-**Byte**s(**256**) (also w/ some reductions to also encode sign and/or floating points).
-
-The second part contains conversions for **size** and **time** units.
-Even with parsing (etc.) '**clock**'s (newest code, as of **2026-07-15**).
-
-All the codes extend the global `Math` object.
 
 <br><br>
 
