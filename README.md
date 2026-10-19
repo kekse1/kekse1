@@ -57,6 +57,7 @@ expressiveness by assigning distinct roles to terms that are usually treated as 
 * [**`Smartwatch`**](#smartwatch)
 * [**`Field`**](#field)
 * [**`Floating Array`**](#floating-array)
+* [**`Math`**](#math)
 * [**`Dump.js`**](#dumpjs)
 * [**`Scripts`**](#scripts)
 * [**`JavaScripts`**](#javascripts)
@@ -151,6 +152,15 @@ also a (much smaller) **Bash Shell** version available.
 
 Once I had this idea.. I don't really know what to do with this `class FloatingArray extends Array`
 (except maybe one thing), but I seemed kinda "fun" to me.. if you've got ideas how to use it, mail me.
+
+<br><br>
+
+### Math
+<a href="https://github.com/kekse1/math/">
+<img id="math" src="https://kekse.biz/github.php?override=github:kekse1&draw&angle=3&size=56&fg=140,130,20&font=OpenSans&ro&readonly&v=48&h=48&text=Math" />
+</a>
+
+**TODO** ... working on it, just a bit. ..
 
 <br><br>
 
