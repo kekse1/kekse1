@@ -21,13 +21,13 @@
 
 <details style="color: rgb(90, 10, 100);"><summary style="color: rgb(100, 10, 90);">
 	🐭 <u>My</u> <b>difference</b> between `<b>radix</b>` and `<b>base</b>` ...</summary>
-<br>When I talk about the '**radix**' — and I do it often, as I convert between number systems a lot — I mean
-the numerical base of the numbers/digits/symbols themselves, a kind of '**inner**' base (positional base or
-the alphabet size), or - geometrically speaking - the 'number **width**'.
-On the other hand, I define the word '**base**' more as an '**outer**' magnitude (overflow limit, or some
-modulo threshold) that describes the boundary of the 'number **height**' — for instance, 60 seconds
-or 1024 bytes. While this diverges from standard mathematical usage, it provides more expressiveness
-by assigning distinct roles to terms that are usually treated as synonyms.
+<br>When I talk about the `<b>radix</b>` — and I do it often, as I convert between number systems a lot — I
+mean the numerical base of the numbers/digits/symbols themselves, a kind of `<b>inner</b>` base (positional
+base or the alphabet size), or - geometrically speaking - the number `<b>width</b>`.<br>
+On the other hand, I define the word `<b>base</b>` more as an `<b>outer</b>` magnitude (overflow limit,
+or some modulo threshold) that describes the boundary of the number `<b>height</b>` — for instance,
+60 seconds or 1024 bytes. While this diverges from standard mathematical usage, it provides more
+expressiveness by assigning distinct roles to terms that are usually treated as synonyms.
 </details>
 
 <br><br><br>
